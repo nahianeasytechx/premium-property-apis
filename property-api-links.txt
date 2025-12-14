@@ -1,0 +1,5 @@
+For Getting ALl Projects:
+https://premium-api.dvalleybd.com/projects.php?action=get-all-projects
+
+For Getting Projects by id:
+https://premium-api.dvalleybd.com/projects.php?action=get-property-by-id&id=

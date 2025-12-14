@@ -1,0 +1,22 @@
+For users:
+1. Get User by ID:
+https://premium-api.dvalleybd.com/get-user.php?action=get-user-by-id&id=1
+
+2. Get User by Email:
+https://premium-api.dvalleybd.com/get-user.php?action=get-user-by-email&email=tpgv1a@dpremiumhomes.com
+
+3.Authenticate User (Login):
+# Using POST method
+POST https://premium-api.dvalleybd.com/get-user.php?action=authenticate-user
+Content-Type: application/x-www-form-urlencoded
+email= and password=
+
+4.Get All Users:
+https://premium-api.dvalleybd.com/get-user.php?action=get-all-users
+
+5.Get Users by Property ID:
+https://premium-api.dvalleybd.com/get-user.php?action=get-users-by-property&propertyId=15
+
+6. Get User's Flats:
+https://premium-api.dvalleybd.com/get-user.php?action=get-user-flats&userId=1
+

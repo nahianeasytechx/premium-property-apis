@@ -1,0 +1,1540 @@
+{
+  "users": [
+    {
+      "email": "tpgv1a@dpremiumhomes.com",
+      "password": "user1235",
+      "name": "Md Sumon Ahmed",
+      "phone": "971566464287",
+      "id": 1,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "1A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,646,667",
+          "due_payment": "25,66,664",
+          "emi_per_month": "77,800",
+          "total_emi_paid": "10,89,200",
+          "remaining_emi": "17,11,600",
+          "emi_duration": "36 months",
+          "emi_completed": "14 months",
+          "emi_remaining": "22 months",
+          "next_emi_date": "Jan 15, 2026",
+          "booking_money": "5,00,000",
+          "land_share": "5,50,000",
+          "development_charges": "90,000",
+          "construction_cost": "28,00,000",
+          "service_charges": "3,80,000",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/17UKM-WodSKGrYmyVMevJeq1LgqBFivKg",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv1b@dpremiumhomes.com",
+      "password": "user1234",
+      "name": "\"Mohammad Jahidul Alam & Sumaya Sultana Marioum (From Green Garden)\"",
+      "phone": "01621244708",
+      "id": 2,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "1B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,705,833",
+          "due_payment": "27,18,333",
+          "emi_per_month": "80,500",
+          "total_emi_paid": "4,02,500",
+          "remaining_emi": "24,95,500",
+          "emi_duration": "36 months",
+          "emi_completed": "5 months",
+          "emi_remaining": "31 months",
+          "next_emi_date": "Jan 10, 2026",
+          "booking_money": "5,00,000",
+          "land_share": "6,50,000",
+          "development_charges": "90,000",
+          "construction_cost": "29,00,000",
+          "service_charges": "3,48,000",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1En9B8E1gqz-ElwCXO98klqIj1bDFoFGK",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv9a@dpremiumhomes.com",
+      "password": "user1236",
+      "name": "Suma Akter (Green Palace)",
+      "phone": "01954465228",
+      "id": 22,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "9A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "13,31,667",
+          "due_payment": "28,81,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1uMXfiE0NLmLMsg_yiUz5ejYYeGLJM0l1",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv9b@dpremiumhomes.com",
+      "password": "user1237",
+      "name": "Md. Golam Kebria Sarkar (Green Palace)",
+      "phone": "",
+      "id": 23,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "9B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,350,833",
+          "due_payment": "30,73,333",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1uQJQC47bnwLmITGM2ZK7rLIiMhQny2fy",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv8a@dpremiumhomes.com",
+      "password": "user1238",
+      "name": "Mohammad Baasirul Islam",
+      "phone": "01757555777",
+      "id": 24,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "8A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,571,667",
+          "due_payment": "26,41,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Zj65KdnaQxVVwpitHRaY3Alg2sSFCi1g",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv8b@dpremiumhomes.com",
+      "password": "user1239",
+      "name": "Mohammad Baasirul Islam",
+      "phone": "01757555777",
+      "id": 25,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "8B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "16,80,833",
+          "due_payment": "27,43,333",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1kt-bdNt_l7Lnk2Y34EDoohquhdXEi8PH",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv7a@dpremiumhomes.com",
+      "password": "user1240",
+      "name": "Elvis Mittra",
+      "phone": "01673786100",
+      "id": 26,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "7A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,596,667",
+          "due_payment": "26,16,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Y1HGl0q1FTATT_oiGlINGlWPDclXvs7Y",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv7b@dpremiumhomes.com",
+      "password": "user1241",
+      "name": "Sadna Khanom Tania",
+      "phone": "+996 559 393 999",
+      "id": 27,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "7B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "5,40,000",
+          "due_payment": "39,00,000",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1S1WsJrkt3O2GLcIfd5Q4Jo0vMC7CJCFx",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv6a@dpremiumhomes.com",
+      "password": "user1242",
+      "name": "Mohammad Zahirul Islam & Marry Wahab Ruby",
+      "phone": "+880 1718-156159",
+      "id": 28,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "6A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,596,667",
+          "due_payment": "26,16,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1cM0fiEXCzpJvwSzylAo2eDZc0ucbx5nz",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv6b@dpremiumhomes.com",
+      "password": "user1243",
+      "name": "Shah Emran",
+      "phone": "01716497398",
+      "id": 29,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "6B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,705,833",
+          "due_payment": "27,18,333",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1vMnj9XRO0uR5xckZtWlGB6Mq49GAzbOK",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv5a@dpremiumhomes.com",
+      "password": "user1244",
+      "name": "Farzana Bhuiyan",
+      "phone": "+880 1910-703190 / +44 7958 171933",
+      "id": 30,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "5A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,626,667",
+          "due_payment": "25,86,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1tjvxXgjnwe7izCzGpwA_jtRiNWGrBiva",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv5b@dpremiumhomes.com",
+      "password": "user1245",
+      "name": "Md. Lil Miah Sarker",
+      "phone": "8801681362181",
+      "id": 31,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "5B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,705,833",
+          "due_payment": "27,18,333",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1fjmtvqqJIc0GSdhMT6yjmM7d6ilDsLWR",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv4a@dpremiumhomes.com",
+      "password": "user1246",
+      "name": "Md. Jewel Ahammed",
+      "phone": "+44 7584 074988",
+      "id": 32,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "4A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,596,667",
+          "due_payment": "26,16,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Xk3pb6jTvevhpL3O0rEnCaVWuL008itt",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv4b@dpremiumhomes.com",
+      "password": "user1247",
+      "name": "Tanzida Alam",
+      "phone": "+44 7584 074988",
+      "id": 33,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "4B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,705,833",
+          "due_payment": "27,18,333",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/10Uchu-QPQdrWVSfi5RG70OJQMRoAaxC-",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv3a@dpremiumhomes.com",
+      "password": "user1248",
+      "name": "Tutul Rahman & Kakoli Rahman",
+      "phone": "+1 (610) 416-6326",
+      "id": 34,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "3A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,626,667",
+          "due_payment": "25,86,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/19hjS82IrUryN925u_zUyamFm4ROAIsKk",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv3b@dpremiumhomes.com",
+      "password": "user1249",
+      "name": "Mohammad Asif Ali.",
+      "phone": "+33 6 69 10 94 14",
+      "id": 35,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "3B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,590,000",
+          "due_payment": "28,50,000",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1A1o1GMA0utXmgy751I5aAaAvAkl1KQcN",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv2a@dpremiumhomes.com",
+      "password": "user1250",
+      "name": "Md. Saiful Islam",
+      "phone": "01804672325 / (+15168524715)",
+      "id": 36,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "2A",
+          "flatSize": "1540 sqft",
+          "price": "42,20,000",
+          "partial_payment": "1,596,667",
+          "due_payment": "26,16,664",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1DXwDeNGSTTf2Jw66Fm6TPfnb13anuQmA",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgv2b@dpremiumhomes.com",
+      "password": "user1251",
+      "name": "Sadia Afrin (Md. Ensan Mia)",
+      "phone": "+8801712656183",
+      "id": 37,
+      "savedProperties": [15],
+      "flatDetails": {
+        "15": {
+          "flatNo": "2B",
+          "flatSize": "1615 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,755,833",
+          "due_payment": "26,68,334",
+          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
+          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1UeG7xR4k4B1ftkW06Rizz4NUaX5V3Vnk",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg1c@dpremiumhomes.com",
+      "password": "user1456",
+      "name": "Naila Parvin",
+      "phone": "#(646)500-3352",
+      "id": 3,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "1C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "13,51,000",
+          "due_payment": "31,42,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg4b@dpremiumhomes.com",
+      "password": "user456",
+      "name": "Sonia Akter",
+      "phone": "01630302520",
+      "id": 4,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "4B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "15,05,000",
+          "due_payment": "29,88,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1lUVV0H9IYafJcfSVblE6s3aLu6HOMi2t",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg9a@dpremiumhomes.com",
+      "password": "user1252",
+      "name": "Md Nahid alam Hridoy",
+      "phone": "15203360511",
+      "id": 38,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "9A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "16,02,500",
+          "due_payment": "22,86,000",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Q0XY4l1r_Du4kzjaZxRSt-e52BUtE8mO",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg9b@dpremiumhomes.com",
+      "password": "user1253",
+      "name": "Ferdousi Begum",
+      "phone": "01911291285",
+      "id": 39,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "9B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "23,00,056",
+          "due_payment": "21,93,444",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1fGM05sFzZPOy_uqZLUQm0r5ttRbHDlwf",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg9c@dpremiumhomes.com",
+      "password": "user1254",
+      "name": "Tahamina Akter (Green Palace)",
+      "phone": "01834892865",
+      "id": 40,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "9C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "11,95,000",
+          "due_payment": "32,98,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1LbJ6edSnzGi3YE74s6otECvKlqWH9YKF",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg9d@dpremiumhomes.com",
+      "password": "user1255",
+      "name": "Md Nahid alam Hridoy",
+      "phone": "15203360511",
+      "id": 41,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "9D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "16,02,500",
+          "due_payment": "22,86,000",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Q0XY4l1r_Du4kzjaZxRSt-e52BUtE8mO",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg8a@dpremiumhomes.com",
+      "password": "user1256",
+      "name": "Md Shawpan Hossain",
+      "phone": "1726582285",
+      "id": 42,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "8A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "17,85,000",
+          "due_payment": "21,03,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/16GQBuvGLv2hDiIFpNPb1oN6t2xzkVdy-",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg8b@dpremiumhomes.com",
+      "password": "user1257",
+      "name": "Mohammed Mashud Elahee (From Green Garden)",
+      "phone": "971505553699",
+      "id": 43,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "8B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "14,65,848",
+          "due_payment": "30,27,652",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1o3CrMyl9poz3gzaonT1r1r7b_IRnxhgI",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg8c@dpremiumhomes.com",
+      "password": "user1258",
+      "name": "MD. Ali Akbar (From Green Garden)",
+      "phone": "1739176572",
+      "id": 44,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "8C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "12,35,000",
+          "due_payment": "32,58,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1p39C94i6uqeQkrRwvrXYb1LM9ro0YOIw",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg8d@dpremiumhomes.com",
+      "password": "user1259",
+      "name": "Md Abu Yusuf",
+      "phone": "1873223322",
+      "id": 45,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "8D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "1,514,185",
+          "due_payment": "26,74,315",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1pHHX1xlRRzQlXbOeuSMeCzWni9SQGeSn",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg7a@dpremiumhomes.com",
+      "password": "user1260",
+      "name": "Zia Uddin",
+      "phone": "1715041326",
+      "id": 46,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "7A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "1,465,000",
+          "due_payment": "25,83,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/12UJAlHqDuZL2q9E6M2da_IPVLgPA0vIP",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg7b@dpremiumhomes.com",
+      "password": "user1261",
+      "name": "Md. Takbir Hossen Sarker (From Green Garden)",
+      "phone": "01681362181",
+      "id": 47,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "7B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "11,00,848",
+          "due_payment": "33,92,652",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1A4hUBpobXLOezDvXZNZ1Xiw7GLkDZlAu",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg7c@dpremiumhomes.com",
+      "password": "user1262",
+      "name": "Salma Sultana (Transfer From Green Garden)",
+      "phone": "01916761966",
+      "id": 48,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "7C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "15,01,000",
+          "due_payment": "29,92,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1ISxC2Kk2tmCK6LZv7dcI2p7zwxuM-uLl",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg7d@dpremiumhomes.com",
+      "password": "user1263",
+      "name": "Fahima Begum",
+      "phone": "1914200690",
+      "id": 49,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "7D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "13,59,370",
+          "due_payment": "25,29,130",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/154M1Vdwes4aqhq3Jl5AwTL5bqrJ2ZTpW",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg6a@dpremiumhomes.com",
+      "password": "user1264",
+      "name": "Abdullah Al Maruf (From Green Garden)",
+      "phone": "+821021893001",
+      "id": 50,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "6A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "11,10,000",
+          "due_payment": "27,78,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1rVa2ctunBrdRoIpBldyTrETdpxrfbrOZ",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg6b@dpremiumhomes.com",
+      "password": "user1265",
+      "name": "Tabassum Sirajam Munira (Transfer to Glory)",
+      "phone": "01716896969",
+      "id": 51,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "6B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "13,73,616",
+          "due_payment": "31,19,884",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1CXDSFRsPe-TWnBWI_NM3dd-RqDo1YSy4",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg6c@dpremiumhomes.com",
+      "password": "user1266",
+      "name": "Faruk Ahmed (Transfer to Glory Garden)",
+      "phone": "01998136291",
+      "id": 52,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "6C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "19,99,581",
+          "due_payment": "24,93,919",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/19M7EBRoNa10vZTbIkVP9y-Xz8ew8fFsU",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg6d@dpremiumhomes.com",
+      "password": "user1267",
+      "name": "Md. Maniruzzaman (Garden View)",
+      "phone": "01716388509",
+      "id": 53,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "6D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "7,35,000",
+          "due_payment": "31,53,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1tLAUgG6RH-zoiPEPWAFeSsnwZ6ihDXrw",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg5a@dpremiumhomes.com",
+      "password": "user1268",
+      "name": "Taniya Yesmin (From Green Garden)",
+      "phone": "01630302520",
+      "id": 54,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "5A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "8,81,000",
+          "due_payment": "30,07,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1me00vDGWOdx9lefsy9RuaeQTbcrWFaw7",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg5b@dpremiumhomes.com",
+      "password": "user1269",
+      "name": "Tazneen Sultana Transfer (From Green Garden)",
+      "phone": "+1 (646) 8648283",
+      "id": 55,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "5B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "9,15,848",
+          "due_payment": "35,77,652",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1yQa3bG19LP2E4-pHfH_NHujbZcrAHT0a",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg5c@dpremiumhomes.com",
+      "password": "user1270",
+      "name": "Arifuzzaman Antor (From Green View)",
+      "phone": "01580497264",
+      "id": 56,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "5C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "4,84,000",
+          "due_payment": "40,09,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1EIu6cNsFzbEaTyPDZZvocXV27cEW2Lkl",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg5d@dpremiumhomes.com",
+      "password": "user1271",
+      "name": "Md Monirul Alam",
+      "phone": "1713493220",
+      "id": 57,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "5D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "14,44,185",
+          "due_payment": "24,44,315",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1GGkgS91Eqs_iDkcYh11Ccc3-RkBNCbsb",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg4a@dpremiumhomes.com",
+      "password": "user1272",
+      "name": "Titu Mia (From Green Palace)",
+      "phone": "1630302520",
+      "id": 58,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "4A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "6,75,000",
+          "due_payment": "32,13,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1gx_6mqz7alAXUr6NHMEAUOcZIQVoz-QC",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg4c@dpremiumhomes.com",
+      "password": "user1273",
+      "name": "Md. Mostakim Ahmed & Samira Sharmin Shathy",
+      "phone": "1768867118",
+      "id": 59,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "4C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "24,50,000",
+          "due_payment": "20,43,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1388F20HAqzMj1ZXE4ZIxh4ATjVm1l0QO",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg4d@dpremiumhomes.com",
+      "password": "user1274",
+      "name": "Titu Mia (From Green Palace)",
+      "phone": "1630302520",
+      "id": 60,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "4D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "6,75,000",
+          "due_payment": "32,13,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg3a@dpremiumhomes.com",
+      "password": "user1275",
+      "name": "Amena Begum & Md. Mizanur Rahma From Green Palace",
+      "phone": "1732485588",
+      "id": 61,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "3A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "12,05,000",
+          "due_payment": "26,83,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1VgfM2fB4JR__LscGWVTgx72ApHYCW74H",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg3b@dpremiumhomes.com",
+      "password": "user1276",
+      "name": "Rajib Bagmar (From Green Garden)",
+      "phone": "393897913862",
+      "id": 62,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "3B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "5,51,000",
+          "due_payment": "39,42,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1DdN0MXcCdQoeGuTl0dUNZcjqvPU88alF",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg3c@dpremiumhomes.com",
+      "password": "user1277",
+      "name": "Md. Arif Mahamud",
+      "phone": "01912696795",
+      "id": 63,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "3C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "14,85,000",
+          "due_payment": "30,08,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1yWEXj4Rx7sKKDqus1kYSKuHRDTlEspN7",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg3d@dpremiumhomes.com",
+      "password": "user1278",
+      "name": "MD. Baqibillah Mallik",
+      "phone": "+819089460920",
+      "id": 64,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "3D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "15,85,000",
+          "due_payment": "23,03,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1_79ZR8F9eb0iX52ok-7G-heYG85SGaXg",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg2a@dpremiumhomes.com",
+      "password": "user1279",
+      "name": "Goutom Kumar Banik",
+      "phone": "447954373926",
+      "id": 65,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "2A",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "12,50,848",
+          "due_payment": "26,37,652",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Yxr5Bz_b3lLtZ-G7zi9Id_t_I_83yA9E",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg2b@dpremiumhomes.com",
+      "password": "user1280",
+      "name": "MD Abul Kalam From Green View Garden",
+      "phone": "96565163274",
+      "id": 66,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "2B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "15,80,848",
+          "due_payment": "29,12,652",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1gJ4Om28_GdwD6kMfAf7LSS0995xXyw7d",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg2c@dpremiumhomes.com",
+      "password": "user1281",
+      "name": "Qamrun Nahar Akhter from Green garden",
+      "phone": "01690202713",
+      "id": 67,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "2C",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "15,35,000",
+          "due_payment": "29,58,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1c-vBYxb5dfYTJN2p3lF5E8BCelhAg_u9",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg2d@dpremiumhomes.com",
+      "password": "user1282",
+      "name": "Goutom Kumar Banik",
+      "phone": "447954373926",
+      "id": 68,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "2D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "15,00,848",
+          "due_payment": "23,87,652",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1h-ofZ_QkeclXngGcMcSVyHOh-2-tJn83",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg1a@dpremiumhomes.com",
+      "password": "user1283",
+      "name": "Company Ownership (CEO SIR)",
+      "phone": "",
+      "id": 69,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "1A",
+          "flatSize": "1300 sqft",
+          "price": "0",
+          "partial_payment": "0",
+          "due_payment": "38,88,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg1b@dpremiumhomes.com",
+      "password": "user1284",
+      "name": "Hannan Mia From Green Palace",
+      "phone": "353894660495",
+      "id": 70,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "1B",
+          "flatSize": "1520 sqft",
+          "price": "44,93,500",
+          "partial_payment": "13,50,000",
+          "due_payment": "31,43,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1C5ZjXkxpnRjQqWzwYuP9EOL36x9EIXm3",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tpgg1d@dpremiumhomes.com",
+      "password": "user1285",
+      "name": "Halima Khanam Sadia",
+      "phone": "1768449977",
+      "id": 71,
+      "savedProperties": [8],
+      "flatDetails": {
+        "8": {
+          "flatNo": "1D",
+          "flatSize": "1300 sqft",
+          "price": "38,88,500",
+          "partial_payment": "14,55,000",
+          "due_payment": "24,33,500",
+          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
+          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/19misf3pyKktH2srQWZMgfAIzuxzZVkV8",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+        }
+      }
+    },
+    {
+      "email": "tphr2a@dpremiumhomes.com",
+      "password": "user678",
+      "name": "Muhammad Luthfur Rahman",
+      "phone": "1716201291",
+      "id": 5,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "2A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "17,00,000",
+          "due_payment": "27,40,000",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1a6nImMKZLvvye9GSsXfOUzaDeIfRKayP",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr9a@dpremiumhomes.com",
+      "password": "user679",
+      "name": "Mohammad Shariful Islam",
+      "phone": "96893868351",
+      "id": 6,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "9A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "17,35,848",
+          "due_payment": "27,04,152",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1EuPcNY-yvFXH9qs2IUHamlsCSBPMJh5-",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr9b@dpremiumhomes.com",
+      "password": "user680",
+      "name": "Md Rubel Hossain",
+      "phone": "821046388230",
+      "id": 7,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "9B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "2,998,083",
+          "due_payment": "14,41,917",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1VE5gVcoPm52p5UJtKvnFGWqLPTkBU3Hc",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr8a@dpremiumhomes.com",
+      "password": "user681",
+      "name": "Suraiya Anika Shapna",
+      "phone": "(+61451323660)/ +880 1732-656618",
+      "id": 8,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "8A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1,819,533",
+          "due_payment": "28,86,300",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1berq36zKlizE7EyBuPxGMyPgI56zlP2h",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr8b@dpremiumhomes.com",
+      "password": "user682",
+      "name": "Md Shahin Alam",
+      "phone": "1309593411",
+      "id": 9,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "8B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "17,55,848",
+          "due_payment": "26,84,152",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1FHePJZn313KXwI-c3razoZLE_BGR41s1",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr7a@dpremiumhomes.com",
+      "password": "user683",
+      "name": "MD Abdul Hafiz",
+      "phone": "1757734968",
+      "id": 10,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "7A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "1508650",
+          "due_payment": "29,31,350",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1r1j_5W3FeTeE_owmZHqBrd9cDMIYT6OD",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr7b@dpremiumhomes.com",
+      "password": "user684",
+      "name": "Momtaj Begum",
+      "phone": "1768019136",
+      "id": 11,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "7B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "15,28,000",
+          "due_payment": "29,12,000",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1_Du9mxheIbrNdFmQEMYhCJvwD8INI908",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr6a@dpremiumhomes.com",
+      "password": "user685",
+      "name": "Sadna Khanom Tania",
+      "phone": "(+996559393999)",
+      "id": 12,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "6A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "3,40,000",
+          "due_payment": "41,00,000",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/14uXwiWS9Q0_Q4xkWIb6MyCggxOSLksbL",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr6b@dpremiumhomes.com",
+      "password": "user686",
+      "name": "Nur Mahammed",
+      "phone": "(+2560759469330)",
+      "id": 13,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "6B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "16,79,309",
+          "due_payment": "27,60,691",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1pV5Hpo73sby0ZhL63EDnHy0qq9B8Wz7o",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr5a@dpremiumhomes.com",
+      "password": "user687",
+      "name": "Rokeya Begum",
+      "phone": "1715529998",
+      "id": 14,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "5A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "17,05,848",
+          "due_payment": "27,34,152",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1BYMJTBTmHl3vSpauHpZZNKTo-pS0gT0Y",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr5b@dpremiumhomes.com",
+      "password": "user688",
+      "name": "Hafizur Rahman",
+      "phone": "(+821056295010)",
+      "id": 15,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "5B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "29,98,083",
+          "due_payment": "14,41,917",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1GBlCxibdLRmqYiutbU_wM_pmGFBcHnhb",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr4a@dpremiumhomes.com",
+      "password": "user689",
+      "name": "Gautom Kuam Banik",
+      "phone": "447954373926",
+      "id": 16,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "4A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "14,66,696",
+          "due_payment": "29,73,304",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Hp-bda4gGuvhxfTNCe1ORDcu6i36Wz4Q",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr3a@dpremiumhomes.com",
+      "password": "user690",
+      "name": "Din Islam/Musa Mia (Green View Garden)",
+      "phone": "01879915120 / 01715898302",
+      "id": 17,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "3A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "9,67,300",
+          "due_payment": "34,72,700",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1_XMHR0ZdMYJrjyjEY-Is1he-9SNPB0dW",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr3b@dpremiumhomes.com",
+      "password": "user691",
+      "name": "Wasik Muktadir",
+      "phone": "+1(718)5645809/+8801735156614",
+      "id": 18,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "3B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "12,56,120",
+          "due_payment": "31,83,880",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Rp_7TeY9lrzer20eRyKGnNjAd3O1xEcp",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr2b@dpremiumhomes.com",
+      "password": "user692",
+      "name": "Safi Ullah (Rafi) Came from Garden",
+      "phone": "01627426760",
+      "id": 19,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "2B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "16,40,000",
+          "due_payment": "28,00,000",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1h9q77mVcduomWrRF3IXPQy3wXgcxP1mP",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr1a@dpremiumhomes.com",
+      "password": "user693",
+      "name": "Masud Rahman",
+      "phone": "+393805904345",
+      "id": 20,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "1A",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "13,55,000",
+          "due_payment": "30,85,000",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1c4sfXSHh-AfIMCks6zIFxqWu4aTbnftK",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr1b@dpremiumhomes.com",
+      "password": "user694",
+      "name": "Safiqur Rahman",
+      "phone": "01612808080",
+      "id": 21,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "1B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "22,40,100",
+          "due_payment": "21,99,900",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1BGVnCkJ5iuvCkkTAXmHoxwQMPioBv6Ad",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "email": "tphr4b@dpremiumhomes.com",
+      "password": "user695",
+      "name": "Vacant",
+      "phone": "",
+      "id": 72,
+      "savedProperties": [17],
+      "flatDetails": {
+        "17": {
+          "flatNo": "4B",
+          "flatSize": "1630 sqft",
+          "price": "44,40,000",
+          "partial_payment": "",
+          "due_payment": "44,40,000",
+          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
+          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1wa_q3nLohLpLjEmmw1q7PF9OeG9wK1b1",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+        }
+      }
+    }
+  ]
+}
