@@ -6,11 +6,14 @@
       "name": "Md Sumon Ahmed",
       "phone": "971566464287",
       "id": 1,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "1A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "1,646,667",
           "due_payment": "25,66,664",
@@ -26,12 +29,13 @@
           "development_charges": "90,000",
           "construction_cost": "28,00,000",
           "service_charges": "3,80,000",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/17UKM-WodSKGrYmyVMevJeq1LgqBFivKg",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": "2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv1b@dpremiumhomes.com",
@@ -39,14 +43,18 @@
       "name": "\"Mohammad Jahidul Alam & Sumaya Sultana Marioum (From Green Garden)\"",
       "phone": "01621244708",
       "id": 2,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "1B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "1,705,833",
-          "due_payment": "27,18,333",
+          "due_payment": "2,674,167",
+          "discount": "50,000",
           "emi_per_month": "80,500",
           "total_emi_paid": "4,02,500",
           "remaining_emi": "24,95,500",
@@ -59,12 +67,13 @@
           "development_charges": "90,000",
           "construction_cost": "29,00,000",
           "service_charges": "3,48,000",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1En9B8E1gqz-ElwCXO98klqIj1bDFoFGK",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv9a@dpremiumhomes.com",
@@ -72,20 +81,25 @@
       "name": "Suma Akter (Green Palace)",
       "phone": "01954465228",
       "id": 22,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "9A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "13,31,667",
-          "due_payment": "28,81,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,578,333",
+          "discount": "310,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1uMXfiE0NLmLMsg_yiUz5ejYYeGLJM0l1",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv9b@dpremiumhomes.com",
@@ -93,20 +107,25 @@
       "name": "Md. Golam Kebria Sarkar (Green Palace)",
       "phone": "",
       "id": 23,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "9B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
-          "partial_payment": "1,350,833",
-          "due_payment": "30,73,333",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "partial_payment": "13,50,833",
+          "due_payment": "2,669,167",
+          "discount": "400,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1uQJQC47bnwLmITGM2ZK7rLIiMhQny2fy",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv8a@dpremiumhomes.com",
@@ -114,20 +133,25 @@
       "name": "Mohammad Baasirul Islam",
       "phone": "01757555777",
       "id": 24,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "8A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
-          "partial_payment": "1,571,667",
-          "due_payment": "26,41,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "partial_payment": "1,096,667",
+          "due_payment": "2,999,373",
+          "discount": "75,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Zj65KdnaQxVVwpitHRaY3Alg2sSFCi1g",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv8b@dpremiumhomes.com",
@@ -135,20 +159,25 @@
       "name": "Mohammad Baasirul Islam",
       "phone": "01757555777",
       "id": 25,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "8B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "16,80,833",
-          "due_payment": "27,43,333",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,627,487",
+          "discount": "75,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1kt-bdNt_l7Lnk2Y34EDoohquhdXEi8PH",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv7a@dpremiumhomes.com",
@@ -156,20 +185,25 @@
       "name": "Elvis Mittra",
       "phone": "01673786100",
       "id": 26,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "7A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "1,596,667",
-          "due_payment": "26,16,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,573,333",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Y1HGl0q1FTATT_oiGlINGlWPDclXvs7Y",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv7b@dpremiumhomes.com",
@@ -177,20 +211,25 @@
       "name": "Sadna Khanom Tania",
       "phone": "+996 559 393 999",
       "id": 27,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "7B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "5,40,000",
           "due_payment": "39,00,000",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1S1WsJrkt3O2GLcIfd5Q4Jo0vMC7CJCFx",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv6a@dpremiumhomes.com",
@@ -198,20 +237,25 @@
       "name": "Mohammad Zahirul Islam & Marry Wahab Ruby",
       "phone": "+880 1718-156159",
       "id": 28,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "6A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "1,596,667",
-          "due_payment": "26,16,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,573,333",
+          "discount": "2,573,333",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1cM0fiEXCzpJvwSzylAo2eDZc0ucbx5nz",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv6b@dpremiumhomes.com",
@@ -219,20 +263,25 @@
       "name": "Shah Emran",
       "phone": "01716497398",
       "id": 29,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "6B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "1,705,833",
-          "due_payment": "27,18,333",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,674,167",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1vMnj9XRO0uR5xckZtWlGB6Mq49GAzbOK",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv5a@dpremiumhomes.com",
@@ -240,20 +289,25 @@
       "name": "Farzana Bhuiyan",
       "phone": "+880 1910-703190 / +44 7958 171933",
       "id": 30,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "5A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "1,626,667",
-          "due_payment": "25,86,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,573,333",
+          "discount": "20,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1tjvxXgjnwe7izCzGpwA_jtRiNWGrBiva",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv5b@dpremiumhomes.com",
@@ -261,20 +315,25 @@
       "name": "Md. Lil Miah Sarker",
       "phone": "8801681362181",
       "id": 31,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "5B",
           "flatSize": "1615 sqft",
           "price": "44,40,000",
           "partial_payment": "1,705,833",
-          "due_payment": "27,18,333",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,573,333",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1fjmtvqqJIc0GSdhMT6yjmM7d6ilDsLWR",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv4a@dpremiumhomes.com",
@@ -282,20 +341,25 @@
       "name": "Md. Jewel Ahammed",
       "phone": "+44 7584 074988",
       "id": 32,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "4A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1663 sqft",
           "price": "42,20,000",
           "partial_payment": "1,596,667",
           "due_payment": "26,16,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Xk3pb6jTvevhpL3O0rEnCaVWuL008itt",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv4b@dpremiumhomes.com",
@@ -303,20 +367,25 @@
       "name": "Tanzida Alam",
       "phone": "+44 7584 074988",
       "id": 33,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "4B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "1,705,833",
-          "due_payment": "27,18,333",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,674,167",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/10Uchu-QPQdrWVSfi5RG70OJQMRoAaxC-",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv3a@dpremiumhomes.com",
@@ -324,20 +393,25 @@
       "name": "Tutul Rahman & Kakoli Rahman",
       "phone": "+1 (610) 416-6326",
       "id": 34,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "3A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "1,626,667",
-          "due_payment": "25,86,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,573,333",
+          "discount": "20,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/19hjS82IrUryN925u_zUyamFm4ROAIsKk",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv3b@dpremiumhomes.com",
@@ -345,20 +419,24 @@
       "name": "Mohammad Asif Ali.",
       "phone": "+33 6 69 10 94 14",
       "id": 35,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "3B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "1,590,000",
           "due_payment": "28,50,000",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1A1o1GMA0utXmgy751I5aAaAvAkl1KQcN",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv2a@dpremiumhomes.com",
@@ -366,20 +444,25 @@
       "name": "Md. Saiful Islam",
       "phone": "01804672325 / (+15168524715)",
       "id": 36,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "2A",
-          "flatSize": "1540 sqft",
+          "flatSize": "1565 sqft",
           "price": "42,20,000",
           "partial_payment": "1,596,667",
-          "due_payment": "26,16,664",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "due_payment": "2,573,333",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1DXwDeNGSTTf2Jw66Fm6TPfnb13anuQmA",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgv2b@dpremiumhomes.com",
@@ -387,20 +470,25 @@
       "name": "Sadia Afrin (Md. Ensan Mia)",
       "phone": "+8801712656183",
       "id": 37,
-      "savedProperties": [15],
-      "flatDetails": {
-        "15": {
+      "savedProperties": [
+        {
+          "id": 15,
+          "name": "The Premium Green Valley",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/gvProp3.png",
           "flatNo": "2B",
-          "flatSize": "1615 sqft",
+          "flatSize": "1663 sqft",
           "price": "44,40,000",
           "partial_payment": "1,755,833",
           "due_payment": "26,68,334",
-          "videoLink": "https://rtsp.me/embed/zkYhn9Hs/",
-          "videoLink2": "https://rtsp.me/embed/Ek9efBY6/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Valley/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1UeG7xR4k4B1ftkW06Rizz4NUaX5V3Vnk",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/14JlevxCW0M3Y85_akQB6xPLvIB0WNmAEq0KIA_0rgB4/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg1c@dpremiumhomes.com",
@@ -408,20 +496,24 @@
       "name": "Naila Parvin",
       "phone": "#(646)500-3352",
       "id": 3,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "1C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "13,51,000",
           "due_payment": "31,42,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg4b@dpremiumhomes.com",
@@ -429,20 +521,24 @@
       "name": "Sonia Akter",
       "phone": "01630302520",
       "id": 4,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "4B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "15,05,000",
           "due_payment": "29,88,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1lUVV0H9IYafJcfSVblE6s3aLu6HOMi2t",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg9a@dpremiumhomes.com",
@@ -450,20 +546,25 @@
       "name": "Md Nahid alam Hridoy",
       "phone": "15203360511",
       "id": 38,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "9A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "16,02,500",
           "due_payment": "22,86,000",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Q0XY4l1r_Du4kzjaZxRSt-e52BUtE8mO",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg9b@dpremiumhomes.com",
@@ -471,20 +572,25 @@
       "name": "Ferdousi Begum",
       "phone": "01911291285",
       "id": 39,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "9B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "23,00,056",
           "due_payment": "21,93,444",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1fGM05sFzZPOy_uqZLUQm0r5ttRbHDlwf",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg9c@dpremiumhomes.com",
@@ -492,20 +598,25 @@
       "name": "Tahamina Akter (Green Palace)",
       "phone": "01834892865",
       "id": 40,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "9C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "11,95,000",
           "due_payment": "32,98,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1LbJ6edSnzGi3YE74s6otECvKlqWH9YKF",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg9d@dpremiumhomes.com",
@@ -513,20 +624,25 @@
       "name": "Md Nahid alam Hridoy",
       "phone": "15203360511",
       "id": 41,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "9D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "16,02,500",
           "due_payment": "22,86,000",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Q0XY4l1r_Du4kzjaZxRSt-e52BUtE8mO",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg8a@dpremiumhomes.com",
@@ -534,20 +650,25 @@
       "name": "Md Shawpan Hossain",
       "phone": "1726582285",
       "id": 42,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "8A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "17,85,000",
           "due_payment": "21,03,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/16GQBuvGLv2hDiIFpNPb1oN6t2xzkVdy-",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg8b@dpremiumhomes.com",
@@ -555,20 +676,25 @@
       "name": "Mohammed Mashud Elahee (From Green Garden)",
       "phone": "971505553699",
       "id": 43,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "8B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "14,65,848",
           "due_payment": "30,27,652",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1o3CrMyl9poz3gzaonT1r1r7b_IRnxhgI",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg8c@dpremiumhomes.com",
@@ -576,20 +702,25 @@
       "name": "MD. Ali Akbar (From Green Garden)",
       "phone": "1739176572",
       "id": 44,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "8C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "12,35,000",
           "due_payment": "32,58,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1p39C94i6uqeQkrRwvrXYb1LM9ro0YOIw",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg8d@dpremiumhomes.com",
@@ -597,20 +728,25 @@
       "name": "Md Abu Yusuf",
       "phone": "1873223322",
       "id": 45,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "8D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "1,514,185",
           "due_payment": "26,74,315",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1pHHX1xlRRzQlXbOeuSMeCzWni9SQGeSn",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg7a@dpremiumhomes.com",
@@ -618,20 +754,25 @@
       "name": "Zia Uddin",
       "phone": "1715041326",
       "id": 46,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "7A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "1,465,000",
           "due_payment": "25,83,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/12UJAlHqDuZL2q9E6M2da_IPVLgPA0vIP",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg7b@dpremiumhomes.com",
@@ -639,20 +780,25 @@
       "name": "Md. Takbir Hossen Sarker (From Green Garden)",
       "phone": "01681362181",
       "id": 47,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "7B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "11,00,848",
           "due_payment": "33,92,652",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1A4hUBpobXLOezDvXZNZ1Xiw7GLkDZlAu",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg7c@dpremiumhomes.com",
@@ -660,20 +806,25 @@
       "name": "Salma Sultana (Transfer From Green Garden)",
       "phone": "01916761966",
       "id": 48,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "7C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "15,01,000",
           "due_payment": "29,92,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1ISxC2Kk2tmCK6LZv7dcI2p7zwxuM-uLl",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg7d@dpremiumhomes.com",
@@ -681,20 +832,25 @@
       "name": "Fahima Begum",
       "phone": "1914200690",
       "id": 49,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "7D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "13,59,370",
           "due_payment": "25,29,130",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/154M1Vdwes4aqhq3Jl5AwTL5bqrJ2ZTpW",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg6a@dpremiumhomes.com",
@@ -702,20 +858,25 @@
       "name": "Abdullah Al Maruf (From Green Garden)",
       "phone": "+821021893001",
       "id": 50,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "6A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "11,10,000",
           "due_payment": "27,78,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1rVa2ctunBrdRoIpBldyTrETdpxrfbrOZ",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg6b@dpremiumhomes.com",
@@ -723,20 +884,25 @@
       "name": "Tabassum Sirajam Munira (Transfer to Glory)",
       "phone": "01716896969",
       "id": 51,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "6B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "13,73,616",
           "due_payment": "31,19,884",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1CXDSFRsPe-TWnBWI_NM3dd-RqDo1YSy4",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg6c@dpremiumhomes.com",
@@ -744,20 +910,25 @@
       "name": "Faruk Ahmed (Transfer to Glory Garden)",
       "phone": "01998136291",
       "id": 52,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "6C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "19,99,581",
           "due_payment": "24,93,919",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/19M7EBRoNa10vZTbIkVP9y-Xz8ew8fFsU",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg6d@dpremiumhomes.com",
@@ -765,20 +936,25 @@
       "name": "Md. Maniruzzaman (Garden View)",
       "phone": "01716388509",
       "id": 53,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "6D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
-          "partial_payment": "7,35,000",
-          "due_payment": "31,53,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "partial_payment": "1,185,000",
+          "due_payment": "2,603,500",
+          "discount": "100,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1tLAUgG6RH-zoiPEPWAFeSsnwZ6ihDXrw",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg5a@dpremiumhomes.com",
@@ -786,20 +962,25 @@
       "name": "Taniya Yesmin (From Green Garden)",
       "phone": "01630302520",
       "id": 54,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "5A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "8,81,000",
           "due_payment": "30,07,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1me00vDGWOdx9lefsy9RuaeQTbcrWFaw7",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg5b@dpremiumhomes.com",
@@ -807,20 +988,25 @@
       "name": "Tazneen Sultana Transfer (From Green Garden)",
       "phone": "+1 (646) 8648283",
       "id": 55,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "5B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "9,15,848",
           "due_payment": "35,77,652",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1yQa3bG19LP2E4-pHfH_NHujbZcrAHT0a",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg5c@dpremiumhomes.com",
@@ -828,20 +1014,25 @@
       "name": "Arifuzzaman Antor (From Green View)",
       "phone": "01580497264",
       "id": 56,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "5C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "4,84,000",
           "due_payment": "40,09,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1EIu6cNsFzbEaTyPDZZvocXV27cEW2Lkl",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg5d@dpremiumhomes.com",
@@ -849,20 +1040,25 @@
       "name": "Md Monirul Alam",
       "phone": "1713493220",
       "id": 57,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "5D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "14,44,185",
           "due_payment": "24,44,315",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1GGkgS91Eqs_iDkcYh11Ccc3-RkBNCbsb",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg4a@dpremiumhomes.com",
@@ -870,20 +1066,25 @@
       "name": "Titu Mia (From Green Palace)",
       "phone": "1630302520",
       "id": 58,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "4A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
-          "partial_payment": "6,75,000",
-          "due_payment": "32,13,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "partial_payment": "1,050,000",
+          "due_payment": "2,538,500",
+          "discount": "300,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1gx_6mqz7alAXUr6NHMEAUOcZIQVoz-QC",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg4c@dpremiumhomes.com",
@@ -891,20 +1092,25 @@
       "name": "Md. Mostakim Ahmed & Samira Sharmin Shathy",
       "phone": "1768867118",
       "id": 59,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "4C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "24,50,000",
           "due_payment": "20,43,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1388F20HAqzMj1ZXE4ZIxh4ATjVm1l0QO",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg4d@dpremiumhomes.com",
@@ -912,20 +1118,25 @@
       "name": "Titu Mia (From Green Palace)",
       "phone": "1630302520",
       "id": 60,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "4D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "6,75,000",
           "due_payment": "32,13,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg3a@dpremiumhomes.com",
@@ -933,20 +1144,25 @@
       "name": "Amena Begum & Md. Mizanur Rahma From Green Palace",
       "phone": "1732485588",
       "id": 61,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "3A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
-          "partial_payment": "12,05,000",
-          "due_payment": "26,83,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "partial_payment": "1,205,000",
+          "due_payment": "2,353,500",
+          "discount": "330,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1VgfM2fB4JR__LscGWVTgx72ApHYCW74H",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg3b@dpremiumhomes.com",
@@ -954,20 +1170,25 @@
       "name": "Rajib Bagmar (From Green Garden)",
       "phone": "393897913862",
       "id": 62,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "3B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "5,51,000",
           "due_payment": "39,42,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1DdN0MXcCdQoeGuTl0dUNZcjqvPU88alF",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg3c@dpremiumhomes.com",
@@ -975,20 +1196,25 @@
       "name": "Md. Arif Mahamud",
       "phone": "01912696795",
       "id": 63,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "3C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "14,85,000",
           "due_payment": "30,08,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1yWEXj4Rx7sKKDqus1kYSKuHRDTlEspN7",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg3d@dpremiumhomes.com",
@@ -996,20 +1222,25 @@
       "name": "MD. Baqibillah Mallik",
       "phone": "+819089460920",
       "id": 64,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "3D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "15,85,000",
           "due_payment": "23,03,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1_79ZR8F9eb0iX52ok-7G-heYG85SGaXg",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg2a@dpremiumhomes.com",
@@ -1017,20 +1248,25 @@
       "name": "Goutom Kumar Banik",
       "phone": "447954373926",
       "id": 65,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "2A",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "12,50,848",
           "due_payment": "26,37,652",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Yxr5Bz_b3lLtZ-G7zi9Id_t_I_83yA9E",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg2b@dpremiumhomes.com",
@@ -1038,20 +1274,25 @@
       "name": "MD Abul Kalam From Green View Garden",
       "phone": "96565163274",
       "id": 66,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "2B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "15,80,848",
           "due_payment": "29,12,652",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1gJ4Om28_GdwD6kMfAf7LSS0995xXyw7d",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg2c@dpremiumhomes.com",
@@ -1059,20 +1300,25 @@
       "name": "Qamrun Nahar Akhter from Green garden",
       "phone": "01690202713",
       "id": 67,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "2C",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "15,35,000",
           "due_payment": "29,58,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1c-vBYxb5dfYTJN2p3lF5E8BCelhAg_u9",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg2d@dpremiumhomes.com",
@@ -1080,20 +1326,25 @@
       "name": "Goutom Kumar Banik",
       "phone": "447954373926",
       "id": 68,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "2D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "15,00,848",
           "due_payment": "23,87,652",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1h-ofZ_QkeclXngGcMcSVyHOh-2-tJn83",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg1a@dpremiumhomes.com",
@@ -1101,20 +1352,25 @@
       "name": "Company Ownership (CEO SIR)",
       "phone": "",
       "id": 69,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "1A",
           "flatSize": "1300 sqft",
-          "price": "0",
+          "price": "38,88,500",
           "partial_payment": "0",
           "due_payment": "38,88,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg1b@dpremiumhomes.com",
@@ -1122,20 +1378,25 @@
       "name": "Hannan Mia From Green Palace",
       "phone": "353894660495",
       "id": 70,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "1B",
           "flatSize": "1520 sqft",
           "price": "44,93,500",
           "partial_payment": "13,50,000",
           "due_payment": "31,43,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1C5ZjXkxpnRjQqWzwYuP9EOL36x9EIXm3",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tpgg1d@dpremiumhomes.com",
@@ -1143,20 +1404,25 @@
       "name": "Halima Khanam Sadia",
       "phone": "1768449977",
       "id": 71,
-      "savedProperties": [8],
-      "flatDetails": {
-        "8": {
+      "savedProperties": [
+        {
+          "id": 8,
+          "name": "The Premium Glory Garden",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/propertyEight.webp",
           "flatNo": "1D",
           "flatSize": "1300 sqft",
           "price": "38,88,500",
           "partial_payment": "14,55,000",
           "due_payment": "24,33,500",
-          "videoLink": "https://rtsp.me/embed/T3yy42rf/",
-          "videoLink2": "https://rtsp.me/embed/b5D5454Q/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Glory%20Garden/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/19misf3pyKktH2srQWZMgfAIzuxzZVkV8",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1vWRsGx8V_UGq0HFj-LezixMb3_BXDNNTKbdZN1KTS_E/edit?usp=drivesdk",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr2a@dpremiumhomes.com",
@@ -1164,20 +1430,25 @@
       "name": "Muhammad Luthfur Rahman",
       "phone": "1716201291",
       "id": 5,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "2A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "17,00,000",
           "due_payment": "27,40,000",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1a6nImMKZLvvye9GSsXfOUzaDeIfRKayP",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr9a@dpremiumhomes.com",
@@ -1185,20 +1456,25 @@
       "name": "Mohammad Shariful Islam",
       "phone": "96893868351",
       "id": 6,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "9A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "17,35,848",
-          "due_payment": "27,04,152",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,684,152",
+          "discount": "20,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1EuPcNY-yvFXH9qs2IUHamlsCSBPMJh5-",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr9b@dpremiumhomes.com",
@@ -1206,20 +1482,25 @@
       "name": "Md Rubel Hossain",
       "phone": "821046388230",
       "id": 7,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "9B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "2,998,083",
           "due_payment": "14,41,917",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1VE5gVcoPm52p5UJtKvnFGWqLPTkBU3Hc",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr8a@dpremiumhomes.com",
@@ -1227,20 +1508,25 @@
       "name": "Suraiya Anika Shapna",
       "phone": "(+61451323660)/ +880 1732-656618",
       "id": 8,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "8A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "1,819,533",
-          "due_payment": "28,86,300",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,595,467.00",
+          "discount": "25,000.00",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1berq36zKlizE7EyBuPxGMyPgI56zlP2h",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr8b@dpremiumhomes.com",
@@ -1248,20 +1534,25 @@
       "name": "Md Shahin Alam",
       "phone": "1309593411",
       "id": 9,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "8B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "17,55,848",
           "due_payment": "26,84,152",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1FHePJZn313KXwI-c3razoZLE_BGR41s1",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr7a@dpremiumhomes.com",
@@ -1269,20 +1560,25 @@
       "name": "MD Abdul Hafiz",
       "phone": "1757734968",
       "id": 10,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "7A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
-          "partial_payment": "1508650",
-          "due_payment": "29,31,350",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "partial_payment": "1,508,650",
+          "due_payment": "2,861,350",
+          "discount": "70,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1r1j_5W3FeTeE_owmZHqBrd9cDMIYT6OD",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr7b@dpremiumhomes.com",
@@ -1290,20 +1586,25 @@
       "name": "Momtaj Begum",
       "phone": "1768019136",
       "id": 11,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "7B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "15,28,000",
-          "due_payment": "29,12,000",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,862,000",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1_Du9mxheIbrNdFmQEMYhCJvwD8INI908",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr6a@dpremiumhomes.com",
@@ -1311,20 +1612,25 @@
       "name": "Sadna Khanom Tania",
       "phone": "(+996559393999)",
       "id": 12,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "6A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "3,40,000",
           "due_payment": "41,00,000",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/14uXwiWS9Q0_Q4xkWIb6MyCggxOSLksbL",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr6b@dpremiumhomes.com",
@@ -1332,20 +1638,25 @@
       "name": "Nur Mahammed",
       "phone": "(+2560759469330)",
       "id": 13,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "6B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "16,79,309",
-          "due_payment": "27,60,691",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,690,691",
+          "discount": "70,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1pV5Hpo73sby0ZhL63EDnHy0qq9B8Wz7o",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr5a@dpremiumhomes.com",
@@ -1353,20 +1664,25 @@
       "name": "Rokeya Begum",
       "phone": "1715529998",
       "id": 14,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "5A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "17,05,848",
-          "due_payment": "27,34,152",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,684,152",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1BYMJTBTmHl3vSpauHpZZNKTo-pS0gT0Y",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr5b@dpremiumhomes.com",
@@ -1374,20 +1690,25 @@
       "name": "Hafizur Rahman",
       "phone": "(+821056295010)",
       "id": 15,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "5B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "29,98,083",
           "due_payment": "14,41,917",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1GBlCxibdLRmqYiutbU_wM_pmGFBcHnhb",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr4a@dpremiumhomes.com",
@@ -1395,20 +1716,25 @@
       "name": "Gautom Kuam Banik",
       "phone": "447954373926",
       "id": 16,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "4A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "14,66,696",
-          "due_payment": "29,73,304",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,673,304",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Hp-bda4gGuvhxfTNCe1ORDcu6i36Wz4Q",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr3a@dpremiumhomes.com",
@@ -1416,20 +1742,25 @@
       "name": "Din Islam/Musa Mia (Green View Garden)",
       "phone": "01879915120 / 01715898302",
       "id": 17,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "3A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
-          "partial_payment": "9,67,300",
-          "due_payment": "34,72,700",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "partial_payment": "1,155,950",
+          "due_payment": "2,934,050",
+          "discount": "350,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1_XMHR0ZdMYJrjyjEY-Is1he-9SNPB0dW",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr3b@dpremiumhomes.com",
@@ -1437,20 +1768,25 @@
       "name": "Wasik Muktadir",
       "phone": "+1(718)5645809/+8801735156614",
       "id": 18,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "3B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
-          "partial_payment": "12,56,120",
-          "due_payment": "31,83,880",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "partial_payment": "1,706,183",
+          "due_payment": "2,683,817",
+          "discount": "50,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1Rp_7TeY9lrzer20eRyKGnNjAd3O1xEcp",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr2b@dpremiumhomes.com",
@@ -1458,20 +1794,25 @@
       "name": "Safi Ullah (Rafi) Came from Garden",
       "phone": "01627426760",
       "id": 19,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "2B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "16,40,000",
           "due_payment": "28,00,000",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1h9q77mVcduomWrRF3IXPQy3wXgcxP1mP",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr1a@dpremiumhomes.com",
@@ -1479,20 +1820,25 @@
       "name": "Masud Rahman",
       "phone": "+393805904345",
       "id": 20,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "1A",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "13,55,000",
-          "due_payment": "30,85,000",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,685,000",
+          "discount": "400,000",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1c4sfXSHh-AfIMCks6zIFxqWu4aTbnftK",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr1b@dpremiumhomes.com",
@@ -1500,20 +1846,25 @@
       "name": "Safiqur Rahman",
       "phone": "01612808080",
       "id": 21,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "1B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "22,40,100",
-          "due_payment": "21,99,900",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "due_payment": "2,199,900",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1BGVnCkJ5iuvCkkTAXmHoxwQMPioBv6Ad",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
     },
     {
       "email": "tphr4b@dpremiumhomes.com",
@@ -1521,20 +1872,1276 @@
       "name": "Vacant",
       "phone": "",
       "id": 72,
-      "savedProperties": [17],
-      "flatDetails": {
-        "17": {
+      "savedProperties": [
+        {
+          "id": 17,
+          "name": "The Premium Harmony Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/hgProp1.png",
           "flatNo": "4B",
           "flatSize": "1630 sqft",
           "price": "44,40,000",
           "partial_payment": "",
           "due_payment": "44,40,000",
-          "videoLink": "https://rtsp.me/embed/4BtSR2sB/",
-          "videoLink2": "https://rtsp.me/embed/EEKRdE98/",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8",
           "moneyReceiptLink": "https://drive.google.com/drive/folders/1wa_q3nLohLpLjEmmw1q7PF9OeG9wK1b1",
-          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing"
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/11MvwFv0BShSWbw-KUp8FXvlnhwQWobwkH7CWP9dbJCQ/edit?usp=sharing",
+          "estimatedDate": " 2028"
         }
-      }
+      ]
+    },
+    {
+      "email": "tpur1a@dpremiumhomes.com",
+      "password": "user695",
+      "name": "Mizanur Rahman",
+      "phone": "01715147495",
+      "id": 73,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "1A",
+          "flatSize": "1000 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1,111,190",
+          "due_payment": "1,876,810",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1NQ4zwjKVbz4d-kCydqfcHL80JrpuwgLJ?usp=sharing",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur1b@dpremiumhomes.com",
+      "password": "user695",
+      "name": "Sheikh Tareq Rahman",
+      "phone": "821021580249",
+      "id": 74,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "1B",
+          "flatSize": "1010 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1,559,685",
+          "due_payment": "1,428,315",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1CibMjxhGhbLpF31c8acJlReYby3G5mn7?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur2a@dpremiumhomes.com",
+      "password": "user5695",
+      "name": "MD. Ali Morad Rabin ",
+      "phone": "01976967264",
+      "id": 75,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "2A",
+          "flatSize": "1000 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1,113,730",
+          "due_payment": "1,428,315",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1CibMjxhGhbLpF31c8acJlReYby3G5mn7?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur2b@dpremiumhomes.com",
+      "password": "user5695",
+      "name": "Mst. Happy Akter",
+      "phone": "01828063264",
+      "id": 76,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "2B",
+          "flatSize": "1010 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1,251,785",
+          "due_payment": "1,736,215",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1CibMjxhGhbLpF31c8acJlReYby3G5mn7?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur3a@dpremiumhomes.com",
+      "password": "user5695",
+      "name": "Sajjad Hossain",
+      "phone": "01755511203/0160898171",
+      "id": 77,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "3A",
+          "flatSize": "1010 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1200000",
+          "due_payment": "1,788,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/13lV4NuTlhIqztiuOVs5wNV2M7U7FyqB-?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur3b@dpremiumhomes.com",
+      "password": "user5695",
+      "name": "Shahadat Hossain,Shakhaoat Hossen",
+      "phone": "01735224671 / +974 6677 5163",
+      "id": 78,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "3B",
+          "flatSize": "1010 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1258295",
+          "due_payment": "1,729,705",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1s2SRRJ-aTZzlP50ccSSqjqUgs0wolLG_?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur4a@dpremiumhomes.com",
+      "password": "user5690",
+      "name": "Ieakub Mia",
+      "phone": "01738184954",
+      "id": 79,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "4A",
+          "flatSize": "1000 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1,110,000",
+          "due_payment": "1,878,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1juLPZHDCqrs32lb5VmRUZf3b8CBoT20k?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur4b@dpremiumhomes.com",
+      "password": "user5690",
+      "name": "Md. Kamal Uddin Sarker",
+      "phone": "01818210340",
+      "id": 80,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "4B",
+          "flatSize": "1010 sqft",
+          "price": "29,88,000",
+          "partial_payment": "1,251,785",
+          "due_payment": "1,736,215",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1iKp_glzWyKbj7ygc0F2bFd07V-WZo2DJ?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur5ab@dpremiumhomes.com",
+      "password": "user560",
+      "name": "MD Robiul Islam",
+      "phone": "01716671282",
+      "id": 81,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "5A,5B",
+          "flatSize": "1000, 1010 sqft",
+          "price": "5,976,000",
+          "partial_payment": "1,953,000",
+          "due_payment": "4,023,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1FL7VD8aFJcCXNcolEQk9QnoGGillssNb?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur6a@dpremiumhomes.com",
+      "password": "user56950",
+      "name": "Farhana Haque Moutushi",
+      "phone": "01709998107",
+      "id": 82,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "6A",
+          "flatSize": "1000",
+          "price": "2,988,000",
+          "partial_payment": "1092703",
+          "due_payment": "1,895,297",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1KjHJpnuC_jOtay25RqfAJJjbWYcqtnAp?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur6b@dpremiumhomes.com",
+      "password": "user990",
+      "name": "Tarekul Islam Shanto",
+      "phone": "01729580992",
+      "id": 83,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "6B",
+          "flatSize": "1010",
+          "price": "2,988,000",
+          "partial_payment": "1125230",
+          "due_payment": "1,862,770",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1jOKFxoHaqOXU--BDvNVFX-f4tLhM3ncW?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur7a@dpremiumhomes.com",
+      "password": "user990",
+      "name": "Abdul Latif Suhal",
+      "phone": "+447453158053",
+      "id": 84,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "7A",
+          "flatSize": "1000 sqft",
+          "price": "2,988,000",
+          "partial_payment": "1,120,190",
+          "due_payment": "1,867,810",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1UmrCX-viaTXP_qqXBB81xBbCe3UqZmyH?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpur7b@dpremiumhomes.com",
+      "password": "user9490",
+      "name": "MD Mahitunnabi Shuvo",
+      "phone": "+8801308499405",
+      "id": 85,
+      "savedProperties": [
+        {
+          "id": 22,
+          "name": "The Premium Urban Residence",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ubProp1.png",
+          "flatNo": "7A",
+          "flatSize": "1010 sqft",
+          "price": "2,988,000",
+          "partial_payment": "450000",
+          "due_payment": "2,538,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam02.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Urban%20Residence/cam05.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/11pMZ8qZWhjsVkKWMCj9TUOcwKmyh4zRm?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1ZRxC_LrarpKcH2IjqtWA-IFRmip82bT26nuCm5qOlhI/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+
+    {
+      "email": "tpgh1a@dpremiumhomes.com",
+      "password": "user9490",
+      "name": "Ali Akbor Patwary",
+      "phone": "01882865075",
+      "id": 86,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "1A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "885,000",
+          "due_payment": "3,545,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh1b@dpremiumhomes.com",
+      "password": "user3490",
+      "name": "Monir Hossain",
+      "phone": "01882865075",
+      "id": 87,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "1B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "885,000",
+          "due_payment": "3,545,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh2a@dpremiumhomes.com",
+      "password": "user1490",
+      "name": "Mahbubur Rahmann",
+      "phone": "01625171810/01798282288",
+      "id": 87,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "2A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "17,15,848",
+          "due_payment": "2,714,152",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1s6bDFSabAfLbEn1NTusWtyLQVj9WKMhs?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh2b@dpremiumhomes.com",
+      "password": "user1490",
+      "name": "Ismot Ara Begum",
+      "phone": "01580333948 / 01581100676",
+      "id": 88,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "2B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "9,85,000",
+          "due_payment": "34,45,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1EaTyjrP2AKNK0D6tXJM0CMX6HYwIeTaL?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh3a@dpremiumhomes.com",
+      "password": "user190",
+      "name": "MD. Sarwar Jahan",
+      "phone": "01670226962",
+      "id": 89,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "3A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "1415848",
+          "due_payment": "3,014,152",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/10bW2QEI4oNFqk2E5MJ99ASEaSOUKPnO2?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh3b@dpremiumhomes.com",
+      "password": "user190",
+      "name": "Ismail Khan & Umme Kulsum Rimi",
+      "phone": "01860196166",
+      "id": 90,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "3B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "6,02,000",
+          "due_payment": "3,828,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1URbhLwT51jEWwNYfj40AdRWKn9GNS-nH?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh4a@dpremiumhomes.com",
+      "password": "user290",
+      "name": "Md. Nahid Parvez",
+      "phone": "01711170658",
+      "id": 91,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "4A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "18,83,842",
+          "due_payment": "2,546,158",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1I_Kx2Y5CvscOROpIRlEeee-lUtZ045ro?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh4b@dpremiumhomes.com",
+      "password": "user5390",
+      "name": "Md. Anarul Islam",
+      "phone": "01515253265",
+      "id": 92,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "4B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "18,97,510",
+          "due_payment": "2,532,490",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1ZQ8rSQmq3jHk9GWPFNEToS4bvKtSHz_G?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh5a@dpremiumhomes.com",
+      "password": "user790",
+      "name": "Mst. Shuly Khatun",
+      "phone": "353894506116",
+      "id": 93,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "5A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "10,07,740",
+          "due_payment": "3,422,260",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1QGcj211y6Gjh_SrPUMOUOQI6kwvLfAOP?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh5b@dpremiumhomes.com",
+      "password": "user3790",
+      "name": "Md. Habibur Rahman",
+      "phone": "01700211951",
+      "id": 94,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "5B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "17,21,696",
+          "due_payment": "2,708,304",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1qQpARplIRf3dYLPKoe_bcPkEpN9B9uX9?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh6a@dpremiumhomes.com",
+      "password": "user1790",
+      "name": "MD Nayeemul Haque ,Kaniz Fatema",
+      "phone": "+7535123925/447403975339",
+      "id": 95,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "6A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "20,43,981",
+          "due_payment": "23,86,019",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1VjoKeN_WucMGoZjlRrO3WSWxaHgEUz0M?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh7a@dpremiumhomes.com",
+      "password": "user7790",
+      "name": "Monir Hossain",
+      "phone": "01882865075",
+      "id": 96,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "7A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "885000",
+          "due_payment": "35,45,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh7b@dpremiumhomes.com",
+      "password": "user71790",
+      "name": "Ali Akbor Patwary",
+      "phone": "01882865075",
+      "id": 97,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "7B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "0",
+          "due_payment": "44,30,0000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh8a@dpremiumhomes.com",
+      "password": "user01790",
+      "name": "Mohammed Khorshed Alam",
+      "phone": "+27849530095",
+      "id": 98,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "8A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "1500000",
+          "due_payment": "2,930,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh8b@dpremiumhomes.com",
+      "password": "user013790",
+      "name": "MD Almamun Chowdhury",
+      "phone": "+61415541138",
+      "id": 99,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "8B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "32,31,320",
+          "due_payment": "11,98,680",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1T1rbrqCdtkJu7pH-CO2atGN4U7s_lMAT?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh9a@dpremiumhomes.com",
+      "password": "user013790",
+      "name": "Shameem Rahman",
+      "phone": "+1(469)5094875",
+      "id": 100,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "9A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "15,10,641",
+          "due_payment": "2,919,359",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1cQ_DZeaFz5hq0Iu8iU6q8zprJ9RKSRuz?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpgh9b@dpremiumhomes.com",
+      "password": "user18790",
+      "name": "Mohammed Khorshed Alam",
+      "phone": "27849530095",
+      "id": 100,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Green Heaven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/ghProp1.png",
+          "flatNo": "9B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "1605000",
+          "due_payment": "2,825,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Green%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/1bPmh6v8-ysFivS5c5eWt_Vl83SrTNRjNtC_2pn2Y9kQ/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+
+    {
+      "email": "tpfh1a@dpremiumhomes.com",
+      "password": "user18790",
+      "name": "Mazharul Islam",
+      "phone": "01818687352 / 01718134227",
+      "id": 101,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "1A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "29,30,338",
+          "due_payment": "14,99,662",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/18AIwpeuc7UaIKYmmqyC_mPqVa27eX8_G?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh1b@dpremiumhomes.com",
+      "password": "user170",
+      "name": "Rizwana Binta Razzaque",
+      "phone": "01729864372",
+      "id": 101,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "1B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "11,50,000",
+          "due_payment": "32,80,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1AK_Jy4QkcufNFxwEhJoaKY5PVOWGt-fn?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh2a@dpremiumhomes.com",
+      "password": "user170",
+      "name": "Md. Mizanur Rahman",
+      "phone": "01854418441/01827751014/966572867647",
+      "id": 102,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "2A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "1752000",
+          "due_payment": "2,678,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1GzKevA9kgpnirx01IvAsdz5sVY86AZkq?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh2b@dpremiumhomes.com",
+      "password": "user170",
+      "name": "MD. Mohin Uddin",
+      "phone": "01711930985",
+      "id": 103,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "2B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "17,47,195",
+          "due_payment": "2,682,805",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1D1qUbNCecP9SyRC4XbeZ8qgvdbj6DVKm?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh3a@dpremiumhomes.com",
+      "password": "user1170",
+      "name": "Md. Mizanur Rahman",
+      "phone": "01922555763",
+      "id": 104,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "3A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "18,50,232",
+          "due_payment": "25,79,768",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1vQzs58LF6oNJrjReyMtMq9RNj5MUQMv7?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh3b@dpremiumhomes.com",
+      "password": "user1170",
+      "name": "MD. Shariful Islam",
+      "phone": "01736929566",
+      "id": 105,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "3B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "19,21,679",
+          "due_payment": "25,08,321",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1jTTRpmwnjZHuBJ8mXR_KTOGxlPSX9-qG?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh4a@dpremiumhomes.com",
+      "password": "user110",
+      "name": "MD Shamiul Hasan Khan ",
+      "phone": "01716178527",
+      "id": 106,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "4A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "17,55,745",
+          "due_payment": "2,674,255",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/15xAQ1XTjdOZbziNJYgZMj2QbtwQ04QDO?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+        {
+      "email": "tpfh4b@dpremiumhomes.com",
+      "password": "user110",
+      "name": "MD Abdullah Islam",
+      "phone": "01629043697 / 01721694787",
+      "id": 107,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "4B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "1000000",
+          "due_payment": "34,30,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1JaUYY_7MPxlA5SbC1KkJ-s-2N3Tszhaq?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+        {
+      "email": "tpfh5a@dpremiumhomes.com",
+      "password": "user110",
+      "name": "MD. Tareq Sefati",
+      "phone": "01928952199",
+      "id": 108,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "5A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "15,70,000",
+          "due_payment": "28,60,000",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1Dvoy02QV4PmPahrcgqRj_ssQoXRQaySz?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+        {
+      "email": "tpfh5b@dpremiumhomes.com",
+      "password": "user110",
+      "name": "Suraiya Yeasmin Laboni ",
+      "phone": "01792370208",
+      "id": 109,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "5B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "17,21,667",
+          "due_payment": "27,08,333",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1OZ-ggPqznvFUNAkdMZV2jGjAK0pS3MzH?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+        {
+      "email": "tpfh6a@dpremiumhomes.com",
+      "password": "user1022",
+      "name": "Mohibullah Khan",
+      "phone": "01989054961",
+      "id": 110,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "6A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "20,23,011",
+          "due_payment": "2,406,989",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1_gJEZM3uoZG-_rHFJ3j_Yg76sKUZz2kn?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+    {
+      "email": "tpfh6b@dpremiumhomes.com",
+      "password": "user1022",
+      "name": "Ariful Islam Mony",
+      "phone": "01983647313/+880 1313-467797",
+      "id": 109,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "6B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "1613068",
+          "due_payment": "2,816,932",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1TyA12LBSqYEXI-Ke-MV-7qxvhg984OXL?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+        {
+      "email": "tpfh7a@dpremiumhomes.com",
+      "password": "user0212",
+      "name": "Shamima Mainul",
+      "phone": "01713161018",
+      "id": 110,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "7A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "20,37,544",
+          "due_payment": "23,92,456",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/11c2mtTQc3TukTy0GFTT-0b9N-dPfb1r4?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+        {
+      "email": "tpfh7b@dpremiumhomes.com",
+      "password": "user0212",
+      "name": "Maria Afrin Nipa ",
+      "phone": "01335990368/01795529936",
+      "id": 111,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "7B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "2728083",
+          "due_payment": "1,701,917",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1jPIkSMG4KL7H-pCrznxRKl-Zjr2znDCf?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+            {
+      "email": "tpfh8a@dpremiumhomes.com",
+      "password": "user0212",
+      "name": "Tumpa Rahman",
+      "phone": "01818274471",
+      "id": 112,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "8A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "17,41,650",
+          "due_payment": "2,688,350",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1yyCs2mJ_6Q_x1__z3R-HqnLb6WVg5Hut?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+            {
+      "email": "tpfh8b@dpremiumhomes.com",
+      "password": "user0212",
+      "name": "Shafiqul Islam",
+      "phone": "44 7588 402785",
+      "id": 113,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "8B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "36,66,601",
+          "due_payment": "763,399",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1ckNNMYw9SveoTPOlhiYmErVkf-BETrC0?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+            {
+      "email": "tpfh9a@dpremiumhomes.com",
+      "password": "user0212",
+      "name": "Dolena Begum",
+      "phone": "01687178609",
+      "id": 114,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "9A",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "2245056",
+          "due_payment": "2,184,944",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/1D49cvUK21WnMpG-_dw4dxrJTjZU__DJp?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
+    },
+      {
+      "email": "tpfh9b@dpremiumhomes.com",
+      "password": "user0212",
+      "name": "Zubaer Ahmed John",
+      "phone": "01795779145",
+      "id": 115,
+      "savedProperties": [
+        {
+          "id": 9,
+          "name": "The Premium Floral Haven",
+          "location": "Ashulia Model Town",
+          "image": "https://premium-api.dvalleybd.com/assets/Property/fhProp1.png",
+          "flatNo": "9B",
+          "flatSize": "1630 sqft",
+          "price": "44,30,000",
+          "partial_payment": "2245056",
+          "due_payment": "2,184,944",
+          "discount": "",
+          "videoLink": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam01.m3u8",
+          "videoLink2": "https://tphlcamera.xyz/tphl/hls/The%20Premium%20Floral%20Haven/cam03.m3u8",
+          "moneyReceiptLink": "https://drive.google.com/drive/folders/156e0xKY89zQobCnLkgsGmRoc4oI4DP0g?usp=drive_link",
+          "purchaseDetailsLink": "https://docs.google.com/spreadsheets/d/105QxWROuqM3QOiQAQgD8HdOuKK8eTUSyQX4b6NH0vmg/edit?gid=0#gid=0",
+          "estimatedDate": "2028"
+        }
+      ]
     }
+
   ]
 }

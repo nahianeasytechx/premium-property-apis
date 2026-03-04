@@ -1,7 +1,12 @@
 <?php
-session_start();
-require_once './config.php';
-header('Content-Type: application/json');
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With");
+
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit();
+}
 
 // Custom JSON error handler
 set_exception_handler(function ($exception) {
@@ -79,6 +84,73 @@ function prefixAmenityImages($project, $base_url) {
     return $project;
 }
 
+// NEW: Reusable function to generate filters for any property
+function generateFilters($project) {
+    $filters = [
+        'bathroomCounts' => [],
+        'availableSizes' => [],
+        'balconyCounts' => [],
+        'locations' => [],           // For 'location' field only
+        'communities' => [],         // For 'community' field only
+        'fullAddresses' => []
+    ];
+    
+    // Extract specifications for filtering
+    $specs = $project['specifications'] ?? [];
+    
+    foreach ($specs as $spec) {
+        // Check if spec is an array and has 'label' key
+        if (!is_array($spec) || !isset($spec['label']) || !isset($spec['value'])) {
+            continue;
+        }
+        
+        $label = trim($spec['label']);
+        $value = trim($spec['value']);
+        
+        // Extract bathroom counts
+        if ($label === 'Bathroom' && !empty($value) && is_string($value)) {
+            $baths = array_map('trim', explode('/', $value));
+            $filters['bathroomCounts'] = array_merge($filters['bathroomCounts'], $baths);
+        }
+        
+        // Extract balcony counts
+        if ($label === 'Balcony' && !empty($value) && is_string($value)) {
+            $balconies = array_map('trim', explode('/', $value));
+            $filters['balconyCounts'] = array_merge($filters['balconyCounts'], $balconies);
+        }
+        
+        // Extract flat sizes from unit specifications
+        if (stripos($label, 'Unit') === 0 && stripos($value, 'SFT') !== false) {
+            // Extract numeric value before "SFT"
+            $size = trim(explode('SFT', $value)[0]);
+            if (is_numeric($size)) {
+                $filters['availableSizes'][] = $size;
+            }
+        }
+    }
+    
+    // Add location filters - SEPARATE into different arrays
+    if (isset($project['location']) && !empty($project['location'])) {
+        $filters['locations'][] = $project['location'];
+    }
+    if (isset($project['community']) && !empty($project['community'])) {
+        $filters['communities'][] = $project['community'];
+    }
+    if (isset($project['fullLocation']) && !empty($project['fullLocation'])) {
+        $filters['fullAddresses'][] = $project['fullLocation'];
+    }
+    
+    // Clean up filter arrays - remove duplicates and empty values
+    $filters['bathroomCounts'] = array_values(array_unique(array_filter($filters['bathroomCounts'])));
+    $filters['availableSizes'] = array_values(array_unique(array_filter($filters['availableSizes'])));
+    $filters['balconyCounts'] = array_values(array_unique(array_filter($filters['balconyCounts'])));
+    $filters['locations'] = array_values(array_unique(array_filter($filters['locations'])));
+    $filters['communities'] = array_values(array_unique(array_filter($filters['communities'])));
+    $filters['fullAddresses'] = array_values(array_unique(array_filter($filters['fullAddresses'])));
+    
+    return $filters;
+}
+
 //////////////////////////////////////////////////////////////////////////////////////
 // Handle the 'get-all-projects' action (For ProjectGrid component)
 //////////////////////////////////////////////////////////////////////////////////////
@@ -96,60 +168,8 @@ if ($action === 'get-all-projects') {
         $project = prefixImages($project, $base_url);
         $project = prefixAmenityImages($project, $base_url);
         
-        // Extract specifications for filtering
-        $specs = $project['specifications'] ?? [];
-        $project['filters'] = [
-            'bathrooms' => [],
-            'flatSizes' => [],
-            'balconies' => [],
-            'locations' => []
-        ];
-        
-        foreach ($specs as $spec) {
-            // Check if spec is an array and has 'label' key
-            if (!is_array($spec) || !isset($spec['label']) || !isset($spec['value'])) {
-                continue;
-            }
-            
-            $label = $spec['label'];
-            $value = $spec['value'];
-            
-            if ($label === 'Bathroom' && !empty($value) && is_string($value)) {
-                $baths = array_map('trim', explode('/', $value));
-                $project['filters']['bathrooms'] = array_merge($project['filters']['bathrooms'], $baths);
-            }
-            
-            if ($label === 'Balcony' && !empty($value) && is_string($value)) {
-                $balconies = array_map('trim', explode('/', $value));
-                $project['filters']['balconies'] = array_merge($project['filters']['balconies'], $balconies);
-            }
-            
-            // Extract flat sizes from unit specifications
-            if (strpos($label, 'Unit ') === 0 && strpos($value, 'SFT') !== false) {
-                $size = trim(explode('SFT', $value)[0]);
-                if (is_numeric($size)) {
-                    $project['filters']['flatSizes'][] = $size;
-                }
-            }
-        }
-        
-        // Remove duplicates from filter arrays
-        $project['filters']['bathrooms'] = array_unique($project['filters']['bathrooms']);
-        $project['filters']['balconies'] = array_unique($project['filters']['balconies']);
-        $project['filters']['flatSizes'] = array_unique($project['filters']['flatSizes']);
-        
-        // Add location filters
-        $locationFilters = [];
-        if (isset($project['location']) && !empty($project['location'])) {
-            $locationFilters[] = $project['location'];
-        }
-        if (isset($project['community']) && !empty($project['community'])) {
-            $locationFilters[] = $project['community'];
-        }
-        if (isset($project['fullLocation']) && !empty($project['fullLocation'])) {
-            $locationFilters[] = $project['fullLocation'];
-        }
-        $project['filters']['locations'] = array_unique($locationFilters);
+        // Generate filters using the reusable function
+        $project['filters'] = generateFilters($project);
     }
     
     $response = [
@@ -157,7 +177,7 @@ if ($action === 'get-all-projects') {
         "message" => "All projects loaded successfully.",
         "communities" => $data['communities'] ?? [],
         "priceRanges" => $data['priceRanges'] ?? [],
-        "allProperties" => array_values($filteredProjects) // Reset array keys
+        "allProperties" => array_values($filteredProjects)
     ];
 
     echo json_encode($response, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
@@ -182,6 +202,10 @@ if ($action === 'get-projects-by-community') {
         if (isset($project['community']) && strtolower($project['community']) === strtolower($community)) {
             $project = prefixImages($project, $base_url);
             $project = prefixAmenityImages($project, $base_url);
+            
+            // Generate filters using the reusable function
+            $project['filters'] = generateFilters($project);
+            
             $filtered[] = $project;
         }
     }
@@ -230,7 +254,8 @@ if ($action === 'get-property-by-id') {
     $foundProperty = prefixImages($foundProperty, $base_url);
     $foundProperty = prefixAmenityImages($foundProperty, $base_url);
     
-    // NO NEED TO PREFIX AGAIN - prefixAmenityImages already handled it!
+    // Generate filters using the reusable function
+    $foundProperty['filters'] = generateFilters($foundProperty);
     
     $response = [
         "success" => true,

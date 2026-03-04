@@ -1,6 +1,5 @@
-
 {
- "baseUrl": "https:/localhost/sites/premium-property-data/",
+  "baseUrl": "https://premium-api.dvalleybd.com/",
 
   "communities": [
     "The Premium Smart City",
@@ -35,8 +34,8 @@
       "mapImage": "/assets/amenities/southernMap.png",
       "mapLink": "",
       "specifications": [
-        { "label": "Building Type", "value": "G+7" },
         { "label": "Total Share", "value": "28" },
+        { "label": "Building Type", "value": "G+7" },
         { "label": "Unit Per Floor", "value": "4" },
         { "label": "Unit A", "value": "435 SFT" },
         { "label": "Unit B", "value": "415 SFT" },
@@ -55,19 +54,34 @@
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/brac cdm.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/brac cdm.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
     {
       "id": 2,
-      "name": "The Premium Legacy Residence",
+      "name": "The  Legacy Residence",
       "location": "Ashulia Model Town",
       "types": "3 BEDROOMS ",
       "image": "/assets/Property/propertyTwo.webp",
@@ -76,16 +90,16 @@
       "priceRange": "50 Lac - 1 Crore BDT",
       "hoverText": "The Premium Smart City.",
       "community": "The Premium Smart City",
-      "tag": "ON SALE",
+      "tag": "ON SALE!",
       "brochureLink": "https://drive.google.com/file/d/1_CdGejPtN78tMJ8rtacDdOy_Q_pHzaW7/view?usp=sharing",
-      "description": "The Ldegacy Residence represents the pinnacle of modern luxury living in Ashulia Model Town. Inspired by timeless elegance and contemporary design, this residential masterpiece combines architectural brilliance with natural harmony, offering residents an unparalleled lifestyle experience.",
+      "description": "The Legacy Residence represents the pinnacle of modern luxury living in Ashulia Model Town. Inspired by timeless elegance and contemporary design, this residential masterpiece combines architectural brilliance with natural harmony, offering residents an unparalleled lifestyle experience.",
       "apartmentCount": "1",
       "fullLocation": "D Block, Amin Mohammad Model Town, Ashulia",
       "mapImage": "/assets/amenities/southernMap.png",
       "specifications": [
+        { "label": "Total Share", "value": "56" },
         { "label": "Building Type", "value": "B2+B1+G+14" },
         { "label": "Building Orientation", "value": "North-South Face" },
-        { "label": "Total Share", "value": "56" },
         { "label": "Unit Per Floor", "value": "4" },
         { "label": "Number Of Unit", "value": "56 Unit" },
         { "label": "Each Unit Size", "value": "Unit 1790" },
@@ -101,24 +115,39 @@
         { "label": "Balcony", "value": "3" },
         { "label": "Convention", "value": "Hall" },
         { "label": "Electricity Backup", "value": "Generator" },
-        { "lable": "Pool", "value": "Kids Pool" },
-        { "lable": "Charging", "value": "Electric Vehicle Chargin Dock" },
-        { "lable": "Court", "value": "Tennis,Badminton,Basketball Court" }
+        { "label": "Pool", "value": "Kids Pool" },
+        { "label": "Charging", "value": "Electric Vehicle Chargin Dock" },
+        { "label": "Court", "value": "Tennis,Badminton,Basketball Court" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
     {
       "id": 3,
-      "name": "The Premium Nobel Court",
+      "name": "The Premium Noble Court",
       "location": "Ashulia Model Town",
       "types": "1, 2 BEDROOMS & PENTHOUSE",
       "image": "/assets/Property/nobelCourtProp1.png",
@@ -128,53 +157,67 @@
       "community": "The Premium Smart City",
       "hoverText": "The Premium Smart City.",
       "brochureLink": "https://drive.google.com/file/d/1XxoSd7OSjkU3eBoc2ir_50zS7vQI2Y8y/view?usp=sharing",
-      "description": "The Premium Nobel Court represents the pinnacle of modern luxury living in Ashulia Model Town. Inspired by timeless elegance and contemporary design, this residential masterpiece combines architectural brilliance with natural harmony, offering residents an unparalleled lifestyle experience.",
-      "tag": "ON SALE",
+      "description": "The Premium Noble Court represents the pinnacle of modern luxury living in Ashulia Model Town. Inspired by timeless elegance and contemporary design, this residential masterpiece combines architectural brilliance with natural harmony, offering residents an unparalleled lifestyle experience.",
+      "tag": "SOLD OUT!",
       "apartmentCount": "1",
       "fullLocation": "D Block, Amin Mohammad Model Town, Ashulia",
       "mapImage": "/assets/amenities/southernMap.png",
       "specifications": [
+        { "label": "Total Share", "value": "56" },
         { "label": "Building Type", "value": "B2+B1+G+14" },
         { "label": "Building Orientation", "value": "North-South Face" },
         { "label": "Unit Per Floor", "value": "4" },
-        { "label": "Total Share", "value": "56 " },
         { "label": "Number Of Unit", "value": "56 Unit" },
         { "label": "Each Unit Size", "value": "1250 SFT" },
         { "label": "Road", "value": "50,40 & 30 Feet" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Balcony", "value": "2" },
-        { "label": "Drawing Room ", "value": "1" },
-        { "label": "Dining Room ", "value": "1" },
-        { "label": "Kichen  ", "value": "1" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kichen", "value": "1" },
         { "label": "Common Dining", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
+        { "label": "Rooftop", "value": "Gardening" },
         { "label": "Passenger Lift", "value": "2" },
         { "label": "Balcony", "value": "3" },
         { "label": "Convention", "value": "Hall" },
         { "label": "Electricity Backup", "value": "Generator" },
-        { "lable": "Parking", "value": "Car" }
+        { "label": "Parking", "value": "Car Parking" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
     {
       "id": 4,
-      "name": "The Maple Heights Apartment",
+      "name": "The Maple Heights",
       "location": "The Premium Smart City",
       "types": "4 BEDROOMS",
       "image": "/assets/Property/mapleProp3.png",
       "image2": "/assets/Property/mapleProp2.png",
       "image3": "/assets/Property/mapleProp1.png",
-      "tag": "ON SALE",
+      "tag": "ON SALE!",
       "community": "The Premium Smart City",
       "priceRange": "50 Lac - 1 Crore BDT",
       "hoverText": "Ashulia Model Town",
@@ -184,36 +227,51 @@
       "fullLocation": "D Block, Amin Mohammad Model Town, Ashulia",
       "mapImage": "/assets/amenities/southernMap.png",
       "specifications": [
+        { "label": "Total Share", "value": "56" },
         { "label": "Building Type", "value": "B2+B1+G+14" },
         { "label": "Building Orientation", "value": "North-South Face" },
         { "label": "Unit Per Floor", "value": "4" },
-        { "label": "Total Share", "value": "56 " },
         { "label": "Number Of Unit", "value": "56 Unit" },
         { "label": "Unit A", "value": "2250 SFT" },
         { "label": "Unit B", "value": "2150 SFT" },
-        { "label": "Unit C & D ", "value": "2190 SFT" },
+        { "label": "Unit C & D", "value": "2190 SFT" },
         { "label": "Road", "value": "50,40 & 30 Feet" },
         { "label": "Bedroom", "value": "4" },
         { "label": "Bathroom", "value": "4" },
-        { "label": "Drawing Room ", "value": "1" },
-        { "label": "Dining Room ", "value": "1" },
-        { "label": "Kichen  ", "value": "1" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kichen", "value": "1" },
         { "label": "Common Dining", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift", "value": " Passenger and Cargo" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Passenger and Cargo" },
         { "label": "Balcony", "value": "4" },
         { "label": "Convention", "value": "Hall" },
         { "label": "Electricity Backup", "value": "Generator" },
-        { "lable": "Parking", "value": "Car" }
+        { "label": "Parking", "value": "Car Parking" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
@@ -225,7 +283,7 @@
       "image": "/assets/Property/propertyFive.webp",
       "image2": "/assets/Property/southpoint 1.png",
       "image3": "/assets/Property/propertyFive.webp",
-      "tag": "CANCLED",
+      "tag": "ON SALE!",
       "community": "Ashulia Model Town",
       "priceRange": "2 Crore - 5 Crore BDT",
       "hoverText": "Amin Mohammad Model Town, Ashulia.",
@@ -233,92 +291,51 @@
       "description": "The Premium Southpoint Villa represents the ultimate in luxury villa-style living. With spacious layouts, private gardens, and exclusive amenities, this development caters to families seeking privacy and prestige in a gated community setting.",
       "apartmentCount": "1",
       "fullLocation": "Road: 14 Block: A Plot: 5 Land Size: 5 Katha Land Area: 50/72FT Ashulia Model Town, Dhaka",
+      "mapImage": "",
       "specifications": [
+        { "label": "Total Share", "value": "18" },
         { "label": "Building Type", "value": "G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Number Of Unit", "value": "" },
+        { "label": "Total Floors", "value": "" },
         { "label": "Unit Per Floor", "value": "2" },
         { "label": "Unit A", "value": "1600 SFT" },
         { "label": "Unit B", "value": "1600 SFT" },
         { "label": "Front Road", "value": "35 Feet" },
-        { "label": "Total Share", "value": "18" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
-        { "label": "Drawing Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
-        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "The Premium Studio Suite 4.0",
-      "location": "Block F Road 4,Ashulia Model Town,Ashulia Model Town",
-      "types": "STUDIO, 1,2,3 BEDROOMS",
-      "image": "/assets/Property/propertySix.webp",
-      "image2": "/assets/Property/std401.png",
-      "image3": "/assets/Property/std402.png",
-      "mapImage": "/assets/amenities/southernMap.png",
-      "brochureLink": "https://drive.google.com/file/d/1atoXI3Vyar41XaeVuSKVkij2CdWoHBfW/view?usp=sharing",
-      "tag": "ON SALE!",
-      "community": "Ashulia Model Town",
-      "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "Ashulia Model Town",
-      "description": "The Premium Studio Suite 4.0 is one of the latest iteration of our successful studio concept, offering smart living spaces perfect for modern urban lifestyles. With flexible layouts and cutting-edge technology integration.",
-      "apartmentCount": "1",
-      "fullLocation": "Road: 4 Block: F Plot: 7, 9 Land Size: 8 Katha Land Area: 90/64 FT Ashulia Model Town, Dhaka",
-      "mapImg": "/assets/Property/gvmap.png",
-      "mapLink": "",
-      "specifications": [
-        { "label": "Building Type", "value": "G+9" },
-        { "label": "Land Size", "value": "8 Katha" },
-        { "label": "Building Orientation", "value": "North Face" },
-        { "label": "Front Road", "value": "25 Feet" },
-        { "label": "Unit Per Floor", "value": "7" },
-        { "label": "Total Share", "value": "63 " },
-        { "label": "Number Of Unit", "value": "63 Unit" },
-        { "label": "Unit A", "value": "850 SFT" },
-        { "label": "Unit B", "value": "530 SFT" },
-        { "label": "Unit C", "value": "870 SFT" },
-        { "label": "Unit D", "value": "765 SFT" },
-        { "label": "Unit E", "value": "1100 SFT" },
-        { "label": "Unit F", "value": "585 SFT" },
-        { "label": "Unit G", "value": "775 SFT" },
-        { "label": "Road", "value": "50,40 & 30 Feet" },
-        { "label": "Bedroom", "value": "3/2/1" },
-        { "label": "Bathroom", "value": "3/2/1" },
-        { "label": "Drawing Room ", "value": "1" },
-        { "label": "Dining Room ", "value": "1" },
-        { "label": "Kichen  ", "value": "1" },
-        { "label": "Common Dining", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Passenger Lift", "value": "2" },
-        { "label": "Balcony", "value": "2/3" },
-        { "label": "Convention", "value": "Hall" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Parking", "value": "Car" }
-      ],
-      "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
-        { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
-        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
@@ -341,6 +358,7 @@
       "mapImage": "/assets/amenities/southernMap.png",
       "mapLink": "",
       "specifications": [
+        { "label": "Total Share", "value": "18" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "5 Katha" },
@@ -348,25 +366,39 @@
         { "label": "Unit A", "value": "1600 SFT" },
         { "label": "Unit B", "value": "1600 SFT" },
         { "label": "Front Road", "value": "35 Feet" },
-        { "label": "Total Share", "value": "18" },
         { "label": "Bedroom", "value": "3" },
-        { "label": "Balcony", "value": "4" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
+        { "label": "Balcony", "value": "4" },
         { "label": "Drawing Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
         { "label": "Lift", "value": "Only Passenger" },
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
@@ -374,51 +406,68 @@
       "id": 8,
       "name": "The Premium Glory Garden",
       "location": "Ashulia Model Town",
-      "types": "1, 2 & 3 BEDROOMS",
+      "types": "3 BEDROOMS",
       "image": "/assets/Property/propertyEight.webp",
-      "image2": "/assets/Property/glgProp2.png",
-      "image3": "/assets/Property/glgProp1.png",
+      "image2": "/assets/Property/gloryProp1.png",
+      "image3": "/assets/Property/gloryProp2.png",
       "tag": "SOLD OUT!",
       "community": "Ashulia Model Town",
       "priceRange": "Under 50 Lac BDT",
       "hoverText": "Amin Mohammad Model Town, Ashulia.",
-      "brochureLink": "https://drive.google.com/file/d/1Gbkn-dQjGA_iQ57Frlu-fBD_wkrKpywY/view?usp=sharing",
+      "brochureLink": "https://drive.google.com/file/d/1hozUrUHs-9ydrxc3Dm2MlSNOQcpM5HPa/view?usp=drive_link",
       "description": "The Premium Glory Garden celebrates nature and sustainable living. With extensive green spaces, rooftop gardens, and eco-friendly features, this development offers a harmonious blend of urban convenience and natural beauty.",
       "apartmentCount": "1",
       "fullLocation": "Road: 8,9 Block: F, Plot: 13,14,16 Land Size: 3+3+3 Ashulia Model Town, Dhaka",
       "mapImage": "/assets/Property/glorymap.png",
       "mapLink": "https://maps/place/The+Premium+Glory+Garden/@23.8670618,90.3236134,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c3006f32e319:0xf4c91eec67722c5a!8m2!3d23.8670569!4d90.3261883!16s%2Fg%2F11x85qbwmm!5m1!1e1?entry=tts&g_ep=EgoyMDI1MDcxNi.0IPu8ASoASAFQAw%3D%3D&skid=c16aacf0-9b42-47ec-9dbd-6832fd66e71f",
       "specifications": [
+        { "label": "Total Share", "value": "36" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "South-North" },
-        { "label": "Total Share", "value": "27" },
         { "label": "Land Size", "value": "9 Katha" },
-        { "label": "Unit Per Floor", "value": "3" },
-        { "lable": "Total Share", "value": "27" },
-        { "label": "Unit A", "value": "2600 SFT" },
+        { "label": "Total Floors", "value": "10" },
+        { "label": "Unit Per Floor", "value": "4" },
+        { "label": "Unit A", "value": "1300 SFT" },
         { "label": "Unit B", "value": "1520 SFT" },
         { "label": "Unit C", "value": "1520 SFT" },
+        { "label": "Unit D", "value": "1300 SFT" },
         { "label": "Front Road", "value": "35 & 25 Feet" },
-        { "label": "Total Floors", "value": "10" },
-        { "label": "Bedroom", "value": "3/4" },
-        { "label": "Guest Bedroom", "value": "1" },
-        { "label": "Bathroom", "value": "3/4" },
+        { "label": "Bedroom", "value": "3" },
+        { "label": "Bathroom", "value": "3" },
         { "label": "Balcony", "value": "3" },
         { "label": "Drawing Room", "value": "1" },
         { "label": "Kitchen", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift ", "value": "Passenger Only" },
-        { "label": "Extra Room ", "value": "Service Room & Washroom" },
-        { "label": "Extra Room", "value": "Study or Prayer Room" }
+        { "label": "Guest Bedroom", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Passenger Only" },
+        {
+          "label": "Extra Room",
+          "value": "Service Room & Washroom, Study or Prayer Room"
+        }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ],
       "statementLink": "https://drive.google.com/drive/folders/1WIadS0Iw2ud39TVHho_0Ofyq-wqMcrNA"
@@ -441,32 +490,47 @@
       "fullLocation": "D Block, Amin Mohammad Model Town, Ashulia",
       "mapImage": "/assets/Property/glorymap.png",
       "specifications": [
+        { "label": "Total Share", "value": "18" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Total Floors", "value": "10" },
         { "label": "Unit Per Floor", "value": "2" },
         { "label": "Unit A", "value": "1630 SFT" },
         { "label": "Unit B", "value": "1630 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "18" },
-        { "label": "Total Floors", "value": "10" },
         { "label": "Bedroom", "value": "3" },
-        { "label": "Balcony", "value": "3" },
-        { "label": "Guest Bedroom", "value": "1" },
         { "label": "Bathroom", "value": "3" },
+        { "label": "Balcony", "value": "3" },
         { "label": "Drawing Room", "value": "1" },
         { "label": "Kitchen", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift ", "value": "Passenger Only" }
+        { "label": "Guest Bedroom", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Passenger Only" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
@@ -478,15 +542,17 @@
       "image": "/assets/Property/premiumBreezProperty1.png",
       "image2": "/assets/Property/premiumBreezProperty2.png",
       "image3": "/assets/Property/premiumBreezProperty3.png",
-      "tag": "ON SALE",
+      "tag": "SOLD OUT!",
       "community": "Ashulia Model Town",
       "priceRange": "1 Crore - 2 Crore BDT",
       "hoverText": "D Block, Amin Mohammad Model Town, Ashulia.",
-      "brochureLink": "https://drive.google.com/file/d/1o5pYfpMe8JW08w4a1NKi1bSxSGFM7xcU/view?usp=sharing",
+      "brochureLink": "https://drive.google.com/file/d/1_RzzN7mg_YftGc62amHUhc1BKoDwIeec/view?usp=drive_link",
       "description": "The Premium Breeze Residence is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Road: 12 Block: H Plot: 21 Land Size: 3 Katha Land Area: 36/64  FT Ashulia Model Town, Dhaka",
+      "fullLocation": "Road: 12 Block: H Plot: 21 Land Size: 3 Katha Land Area: 36/64 FT Ashulia Model Town, Dhaka",
+      "mapImage": "",
       "specifications": [
+        { "label": "Total Share", "value": "14" },
         { "label": "Building Type", "value": "G+7" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "3 Katha" },
@@ -494,25 +560,39 @@
         { "label": "Unit A", "value": "1000 SFT" },
         { "label": "Unit B", "value": "1000 SFT" },
         { "label": "Front Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "14" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
-        { "label": "Drawing Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
@@ -531,34 +611,50 @@
       "brochureLink": "https://drive.google.com/file/d/1-TRIL1_63asW-wBv7WWygxCE-2sugORz/view?usp=sharing",
       "description": "The Premium Southern Residence is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Road: 10/A Block: F Plot: 8 Land Size: 3 Katha Land Area: 36/64  FT Ashulia Model Town, Dhaka",
+      "fullLocation": "Road: 10/A Block: F Plot: 8 Land Size: 3 Katha Land Area: 36/64 FT Ashulia Model Town, Dhaka",
       "mapImage": "/assets/amenities/southernMap.png",
       "mapLink": "",
       "specifications": [
+        { "label": "Total Share", "value": "14" },
         { "label": "Building Type", "value": "G+7" },
         { "label": "Building Orientation", "value": "South & West" },
+        { "label": "Land Size", "value": "3 Katha" },
         { "label": "Unit Per Floor", "value": "2" },
         { "label": "Unit A", "value": "1005 SFT" },
         { "label": "Unit B", "value": "1010 SFT" },
         { "label": "Front Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "14" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "2" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "2" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Masjid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" }
       ]
     },
@@ -566,11 +662,11 @@
       "id": 12,
       "name": "The Premium Velinor Apartment",
       "location": "Bashundhara Residencial Area",
-      "types": "1, 2 & 3 BEDROOMS",
+      "types": "3 BEDROOMS",
       "image": "/assets/Property/velinorprop1.png",
       "image2": "/assets/Property/velinnorprop2.png",
       "image3": "/assets/Property/velinorprop3.png",
-      "tag": "ON SALE",
+      "tag": "SOLD OUT!",
       "community": "Bashundhara Residencial Area",
       "priceRange": "1 Crore - 2 Crore BDT",
       "hoverText": "Bashundhara Residencial Area",
@@ -582,36 +678,46 @@
       "Floors1": "(1,2,3,4,5)",
       "Floors2": "(6,7,8)",
       "specifications": [
+        { "label": "Total Share", "value": "13" },
         { "label": "Building Type", "value": "G+8" },
+        { "label": "Building Orientation", "value": "" },
         { "label": "Land Size", "value": "6 Katha" },
-        { "label": "Flat Size 1,2,3,4,5", "value": "Unit A,B" },
-        { "label": "Flat Size 6,7,8", "value": "3100 SFT" },
+        { "label": "Number Of Unit", "value": "" },
+        { "label": "Total Floors", "value": "" },
         { "label": "Unit Per Floor", "value": "2" },
         { "label": "Unit A", "value": "1550 SFT" },
         { "label": "Unit B", "value": "1550 SFT" },
+        { "label": "Flat Size 1,2,3,4,5", "value": "Unit A,B" },
+        { "label": "Flat Size 6,7,8", "value": "3100 SFT" },
         { "label": "Front Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "13" },
         { "label": "Bedroom", "value": "3/5" },
         { "label": "Bathroom", "value": "3/5" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
-        { "label": "Drawing Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "4/7" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
-        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
-        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
-        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
-        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
-        { "name": "School", "img": "/assets/amenities/school.jpg" }
+        {
+          "name": "Jamuna Future Park",
+          "img": "/assets/amenities/jamunaFuturePark.png"
+        },
+        {
+          "name": "Bashundhara City Shopping Mall",
+          "img": "/assets/amenities/bashundharaCityMall.png"
+        },
+        {
+          "name": "Bashundara Entertainment Park",
+          "img": "/assets/amenities/bashundharaPark.png"
+        },
+        {
+          "name": "Bashundhara School & College",
+          "img": "/assets/amenities/bashundharaSchool.png"
+        },
+        { "name": "300 Feet", "img": "/assets/amenities/300Feet.png" }
       ]
     },
     {
@@ -629,10 +735,11 @@
       "brochureLink": "https://drive.google.com/file/d/1aVDIcm8a4CjiaKTbhVHATolJcpRxoIbg/view?usp=sharing",
       "description": "The Premium velinor is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "http://localhost/siteRoad:%209%20Block:%20A%20Plot:%2025%20Land%20Size:3%20katha%20Land%20Area:%2060/36%20Ashulia%20Model%20Town,%20Dhakas/cv-project/?page=index",
+      "fullLocation": "Road: 9 Block: A Plot: 25 Land Size: 3 katha Land Area: 60/36 Ashulia Model Town, Dhaka",
       "mapImage": "/assets/amenities/southernMap.png",
       "mapLink": "https://maps.app.goo.gl/8avseBF62gwnBKvCA",
       "specifications": [
+        { "label": "Total Share", "value": "14" },
         { "label": "Building Type", "value": "G+7" },
         { "label": "Building Orientation", "value": "North" },
         { "label": "Land Size", "value": "3 Katha" },
@@ -640,26 +747,40 @@
         { "label": "Unit A", "value": "1000 SFT" },
         { "label": "Unit B", "value": "1000 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "14" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "2" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
-        { "label": "Drawing Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -667,7 +788,7 @@
     },
     {
       "id": 14,
-      "name": "The Premium Floral Heaven",
+      "name": "The Premium Floral Haven",
       "location": "Ashulia Model Town",
       "types": "1, 2 & 3 BEDROOMS",
       "image": "/assets/Property/fhProp1.png",
@@ -684,6 +805,7 @@
       "mapImage": "/assets/amenities/southernMap.png",
       "mapLink": "https://maps.app.goo.gl/BfKvuu3J3htagXdD8",
       "specifications": [
+        { "label": "Total Share", "value": "18" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "5 Katha" },
@@ -691,27 +813,41 @@
         { "label": "Unit A", "value": "1630 SFT" },
         { "label": "Unit B", "value": "1630 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "18" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Dining Room", "value": "1" },
-        { "label": "Drawing Room", "value": "1" },
-        { "label": "Rooftop ", "value": "Gardening" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -732,10 +868,11 @@
       "brochureLink": "https://drive.google.com/file/d/1zE3qORKGKS7QddfySW_xTA7ZxfNVG41p/view?usp=sharing",
       "description": "The Premium velinor is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Road: 11 Block: K ,Plot: 14 Land Size: 5 Katha Ashulia Model Town, Dhaka",
+      "fullLocation": "Road: 11 Block: K, Plot: 14 Land Size: 5 Katha Ashulia Model Town, Dhaka",
       "mapImage": "/assets/Property/gvmap.png",
       "mapLink": "https://maps.app.goo.gl/5FQCgWh4E9wQ2PoFA",
       "specifications": [
+         { "label": "Total Share", "value": "18" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "5 Katha" },
@@ -743,26 +880,40 @@
         { "label": "Unit A", "value": "1540 SFT" },
         { "label": "Unit B", "value": "1615 SFT" },
         { "label": "Road", "value": "30 Feet" },
-        { "label": "Total Share", "value": "18" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -787,6 +938,7 @@
       "fullLocation": "D Block, Amin Mohammad Model Town, Ashulia",
       "mapImage": "/assets/Property/gvmap.png",
       "specifications": [
+        { "label": "Total Share", "value": "36" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "8.2 Katha" },
@@ -794,26 +946,40 @@
         { "label": "Unit A", "value": "1260 SFT" },
         { "label": "Unit B", "value": "1460 SFT" },
         { "label": "Road", "value": "30 & 20 Feet" },
-        { "label": "Total Share", "value": "36" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "4/7" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -837,6 +1003,7 @@
       "fullLocation": "A Block Road no. 12 Plot-11, Ashulia Model Town, Ashulia",
       "mapImage": "/assets/blueprints/hrmap.png",
       "specifications": [
+        { "label": "Total Share", "value": "18" },
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "North" },
         { "label": "Land Size", "value": "5 Katha" },
@@ -844,26 +1011,40 @@
         { "label": "Unit A", "value": "1630 SFT" },
         { "label": "Unit B", "value": "1630 SFT" },
         { "label": "Road", "value": "30 Feet" },
-        { "label": "Total Share", "value": "18" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "4" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -871,7 +1052,7 @@
     },
     {
       "id": 18,
-      "name": "The Premium Orchid Rsidence",
+      "name": "The Premium Orchid Residence",
       "location": "Ashulia Model Town",
       "types": "3 BEDROOMS",
       "image": "/assets/Property/orProp1.png",
@@ -880,13 +1061,14 @@
       "tag": "SOLD OUT!",
       "community": "Ashulia Model Town",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "D Block, Ashulia  Model Town.",
+      "hoverText": "D Block, Ashulia Model Town.",
       "brochureLink": "https://drive.google.com/file/d/1HA1w33nK_uF-emceAZRxRv0QKOREL7fz/view?usp=sharing",
       "description": "The Premium velinor is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Road: 7 Block: D Plot: 11 Land Size: 3  Katha Land Area: 36/64 FT Ashulia Model Town, Dhaka",
+      "fullLocation": "Road: 7 Block: D Plot: 11 Land Size: 3 Katha Land Area: 36/64 FT Ashulia Model Town, Dhaka",
       "mapImage": "/assets/Property/ormap.png",
       "specifications": [
+        { "label": "Total Share", "value": "14" },
         { "label": "Building Type", "value": "G+7" },
         { "label": "Building Orientation", "value": "North" },
         { "label": "Land Size", "value": "3 Katha" },
@@ -894,26 +1076,40 @@
         { "label": "Unit A", "value": "1000 SFT" },
         { "label": "Unit B", "value": "1010 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "14" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "2" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -927,16 +1123,17 @@
       "image": "/assets/Property/std501.png",
       "image2": "/assets/Property/std501.png",
       "image3": "/assets/Property/std502.png",
-      "tag": "Upcoming",
+      "tag": "ON SALE!",
       "community": "Ashulia Model Town",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "D Block, Ashulia  Model Town.",
+      "hoverText": "D Block, Ashulia Model Town.",
       "brochureLink": "https://drive.google.com/file/d/1IlewkYgnTHB_S5YO0-Z-1NQ5nZ0YtGw1/view?usp=sharing",
       "description": "The Premium studio suite 5.0 is designed as an studio oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Road: Lakevie Block: H Plot: 9 Land Size: 5 Katha Land Area: 50/72  FT Ashulia Model Town, Dhaka",
+      "fullLocation": "Road: Lakeview Block: H Plot: 9 Land Size: 5 Katha Land Area: 50/72 FT Ashulia Model Town, Dhaka",
       "mapImage": "/assets/Property/ormap.png",
       "specifications": [
+        { "label": "Total Share", "value": "54" },
         { "label": "Building Type", "value": "G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "5 Katha" },
@@ -948,26 +1145,40 @@
         { "label": "Unit E", "value": "660 SFT" },
         { "label": "Unit F", "value": "850 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "54" },
         { "label": "Bedroom", "value": "1/2/3" },
         { "label": "Bathroom", "value": "1/2" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "1/2/3" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -984,40 +1195,58 @@
       "tag": "ON SALE",
       "community": "Ashulia Model Town",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "D Block, Ashulia  Model Town.",
+      "hoverText": "D Block, Ashulia Model Town.",
       "brochureLink": "https://drive.google.com/file/d/1iAxjGn3CckUwf9fNFGW1Uh8TLtUA2qVK/view?usp=sharing",
       "description": "The Premium velinor is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
       "fullLocation": "D Block, Ashulia Model Town, Ashulia",
       "mapImage": "/assets/Property/ormap.png",
       "specifications": [
+        { "label": "Total Share", "value": "54" },        
         { "label": "Building Type", "value": "G+9" },
         { "label": "Building Orientation", "value": "South" },
         { "label": "Land Size", "value": "10 Katha" },
         { "label": "Unit Per Floor", "value": "14" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "54" },
         { "label": "Bedroom", "value": "1/2" },
         { "label": "Bathroom", "value": "1/2" },
         { "label": "Balcony", "value": "1" },
+        {
+          "label": "Drawing & Commmon Dining Room & Dry Kitchen Room",
+          "value": "1"
+        },
         { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Commmon Dining Room & Dry Kitchen Room", "value": "1" },
-        { "lable": "Swimming pool", "value": "1" },
-        { "lable": "Fitness", "value": "Gymnasium" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
+        { "label": "Garden", "value": "Rooftop" },
         { "label": "Lift", "value": "Only Passenger" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Swimming pool", "value": "1" },
+        { "label": "Fitness", "value": "Gymnasium" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -1025,16 +1254,16 @@
     },
     {
       "id": 21,
-      "name": "The Premium Sunleaf Garden ",
+      "name": "The Premium Sunleaf Garden",
       "location": "Ashulia Model Town",
-      "types": "3 BEDROOMS",
+      "types": "4 BEDROOMS",
       "image": "/assets/Property/sgProp1.png",
       "image2": "/assets/Property/sgProp2.png",
       "image3": "/assets/Property/sgProp3.png",
       "tag": "SOLD OUT!",
       "community": "Ashulia Model Town",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "D Block, Ashulia  Model Town.",
+      "hoverText": "D Block, Ashulia Model Town.",
       "brochureLink": "https://drive.google.com/file/d/1dK9mkmn5KMkOm4uM4XsehDno6BS4o-WZ/view?usp=sharing",
       "description": "The Premium velinor is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
@@ -1042,6 +1271,7 @@
       "mapImage": "/assets/Property/ormap.png",
       "mapLink": "https://www.google.com/maps/place/The+Premium+Sunleaf+Garden/@23.874623,90.3140165,886m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3755c30062d842c9:0x528b4c687523f6f!8m2!3d23.874623!4d90.3140165!16s%2Fg%2F11xlsbvxqt!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MTEyMy.1IKXMDSoASAFQAw%3D%3D",
       "specifications": [
+        { "label": "Total Share", "value": "18" },        
         { "label": "Building Type", "value": "B+G+9" },
         { "label": "Building Orientation", "value": "West" },
         { "label": "Land Size", "value": "5 Katha" },
@@ -1049,26 +1279,40 @@
         { "label": "Unit A", "value": "1600 SFT" },
         { "label": "Unit B", "value": "1600 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "18" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "3" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -1076,7 +1320,7 @@
     },
     {
       "id": 22,
-      "name": "The Premum Urban  Residence ",
+      "name": "The Premium Urban Residence",
       "location": "Ashulia Model Town",
       "types": "3 BEDROOMS",
       "image": "/assets/Property/ubProp1.png",
@@ -1085,41 +1329,56 @@
       "tag": "SOLD OUT!",
       "community": "Ashulia Model Town",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "D Block, Ashulia  Model Town.",
+      "hoverText": "D Block, Ashulia Model Town.",
       "brochureLink": "https://drive.google.com/file/d/1rp9psTwHC2Or3BbTwKvYI0pOYejtIT6F/view?usp=sharing",
       "description": "The Urban Residence is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
       "fullLocation": "D Block, Ashulia Model Town, Ashulia",
       "mapImage": "/assets/Property/ubmap.png",
       "specifications": [
+        { "label": "Total Share", "value": "14" },               
         { "label": "Building Type", "value": "G+7" },
         { "label": "Building Orientation", "value": "South-East" },
         { "label": "Land Size", "value": "3.05 Katha" },
+        { "label": "Total Unit", "value": "14" },
         { "label": "Unit Per Floor", "value": "2" },
         { "label": "Unit A", "value": "1000 SFT" },
         { "label": "Unit B", "value": "1010 SFT" },
         { "label": "Road", "value": "25 Feet" },
-        { "label": "Total Share", "value": "14" },
-        { "label": "Total Unit", "value": "14" },
         { "label": "Bedroom", "value": "3" },
         { "label": "Bathroom", "value": "2" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Lift", "value": "Only Passenger" },
         { "label": "Balcony", "value": "3" },
-        { "label": "Electricity Backup", "value": "Generator" },
-        { "label": "Hall", "value": "Convension Hall" }
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -1127,52 +1386,67 @@
     },
     {
       "id": 23,
-      "name": "THE Premium Velvet Heights ",
+      "name": "The  Valvet Heights",
       "location": "The Premium Smart City",
       "types": "3,5 BEDROOMS",
       "image": "/assets/Property/Tower-2_Back side View_Velvet.jpg",
       "image2": "/assets/Property/vhProp2.png",
       "image3": "/assets/Property/vhProp3.png",
-      "tag": "ON SALE",
+      "tag": "SOLD OUT!",
       "community": "Ashulia Model Town",
       "priceRange": "2 Crore - 5 Crore BDT",
-      "hoverText": "The Premium Smart City, Ashulia  Model Town.",
+      "hoverText": "The Premium Smart City, Ashulia Model Town.",
       "brochureLink": "https://drive.google.com/file/d/1KdiQY1tfb8wQevGviCIeh-uixPFeDupp/view?usp=sharing",
-      "description": "The Premium Velvet Heights is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "description": "The  Velvet Heights is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
       "fullLocation": "D Block, Ashulia Model Town, Ashulia",
       "mapImage": "/assets/Property/ormap.png",
       "specifications": [
+        { "label": "Total Share", "value": "14" },
         { "label": "Building Type", "value": "B2+B1+G+14" },
         { "label": "Building Orientation", "value": "North-South" },
         { "label": "Land Size", "value": "3.05 Katha" },
+        { "label": "Total Unit", "value": "14" },
         { "label": "Unit Per Floor", "value": "4" },
-        { "label": "Single Unit ", "value": "24" },
-        { "label": "Duplex Unit ", "value": "16" },
+        { "label": "Single Unit", "value": "24" },
+        { "label": "Duplex Unit", "value": "16" },
         { "label": "Per Unit", "value": "1680 SFT" },
         { "label": "Road", "value": "50,40 & 30 Feet" },
-        { "label": "Total Share", "value": "14" },
-        { "label": "Total Unit", "value": "14" },
         { "label": "Bedroom", "value": "3/5" },
         { "label": "Bathroom", "value": "3/5" },
-        { "label": "Kitchen", "value": "1" },
-        { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Rooftop ", "value": "Helipad" },
-        { "label": "Parking ", "value": "Car" },
-        { "label": "Passenger Lift", "value": "2" },
         { "label": "Balcony", "value": "6" },
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Rooftop", "value": "Helipad" },
+        { "label": "Passenger Lift", "value": "2" },
+        { "label": "Parking", "value": "Car Parking" },
         { "label": "Hall", "value": "Convention Hall" },
         { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": [
-        { "name": "Daffodil International University", "img": "/assets/amenities/daffodil.png" },
-        { "name": "Brac University (Tarc)", "img": "/assets/amenities/Brac.png" },
-        { "name": "Manarat International University", "img": "/assets/amenities/Manarat.png" },
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
         { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
-        { "name": "Eastern University", "img": "/assets/amenities/eastern.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
         { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
-        { "name": "City University", "img": "/assets/amenities/cityUniversity.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
         { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
         { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
         { "name": "School", "img": "/assets/amenities/school.jpg" }
@@ -1189,16 +1463,18 @@
       "tag": "ON SALE",
       "community": "The Premium Royal City",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "The Premium Royal City,Ati Society",
+      "hoverText": "The Premium Royal City, Ati Society",
       "brochureLink": "https://drive.google.com/file/d/1l7ysv_YxzDiyYZsBQDIZvAxpRbllqweo/view?usp=drive_link",
       "description": "The Premium Crown Tower is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "The Premium Royal City ,Ati Model Town",
+      "fullLocation": "The Premium Royal City, Ati Model Town",
       "specifications": [
-        { "label": "Building Type", "value": "COMMERCIAL–RESIDENTIAL BUILDING" },
-        { "label": "Building Orientation", "value": "SOUTH- NORTH FACE" },
+        { "label": "Total Share", "value": "135" },
+        { "label": "Building Type","value": "COMMERCIAL–RESIDENTIAL BUILDING"},
+        { "label": "Building Orientation", "value": "SOUTH-NORTH FACE" },
         { "label": "Land Size", "value": "5 Katha" },
-        { "label": "Unit Per Floor", "value": "9 " },
+        { "label": "Total Units", "value": "135" },
+        { "label": "Unit Per Floor", "value": "9" },
         { "label": "Unit A", "value": "1310 SFT" },
         { "label": "Unit B", "value": "800 SFT" },
         { "label": "Unit C", "value": "825 SFT" },
@@ -1206,22 +1482,20 @@
         { "label": "Unit E", "value": "2055 SFT" },
         { "label": "Unit F", "value": "2055 SFT" },
         { "label": "Unit G", "value": "1395 SFT" },
-        { "label": "Unit h", "value": "800 SFT" },
+        { "label": "Unit H", "value": "800 SFT" },
         { "label": "Unit I", "value": "775 SFT" },
         { "label": "Road", "value": "40, 30 & 25 Feet" },
-        { "label": "Total Share", "value": "135" },
-        { "label": "Total Units", "value": "135" },
         { "label": "Bedroom", "value": "2/3/4" },
         { "label": "Bathroom", "value": "1/2/3" },
         { "label": "Balcony", "value": "1/2/3/4" },
-        { "label": "Kitchen", "value": "1" },
         { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
         { "label": "Lift", "value": "Passenger" },
-        { "label": "Electricity Backup", "value": "Generator" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Swimming", "value": "Swimming Pool" },
         { "label": "Hall", "value": "Convension Hall" },
-        { "label": "Swimming", "value": "Swimming Pool" }
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": []
     },
@@ -1236,14 +1510,15 @@
       "tag": "ON SALE",
       "community": "The Premium Royal City",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "The Premium Royal City,Ati Society",
+      "hoverText": "The Premium Royal City, Ati Society",
       "brochureLink": "https://drive.google.com/file/d/1l7ysv_YxzDiyYZsBQDIZvAxpRbllqweo/view?usp=drive_link",
       "description": "The Premium Crown Tower is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Ati Society ,Ati Model Town",
+      "fullLocation": "Ati Society, Ati Model Town",
       "specifications": [
-        { "label": "Building Type", "value": "COMMERCIAL–RESIDENTIAL BUILDING" },
-        { "label": "Building Orientation", "value": "SOUTH- NORTH FACE" },
+        { "label": "Total Share", "value": "120" },
+        {"label": "Building Type","value": "COMMERCIAL–RESIDENTIAL BUILDING"},
+        { "label": "Building Orientation", "value": "SOUTH-NORTH FACE" },
         { "label": "Unit Per Floor", "value": "8" },
         { "label": "Unit A", "value": "1565 SFT" },
         { "label": "Unit B", "value": "580 SFT" },
@@ -1254,18 +1529,17 @@
         { "label": "Unit G", "value": "580 SFT" },
         { "label": "Unit H", "value": "1655 SFT" },
         { "label": "Road", "value": "40, 30 & 25 Feet" },
-        { "label": "Total Share", "value": "120" },
         { "label": "Bedroom", "value": "1/2/3" },
         { "label": "Bathroom", "value": "1/2/3" },
         { "label": "Balcony", "value": "1/2/3" },
-        { "label": "Kitchen", "value": "1" },
         { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
         { "label": "Lift", "value": "Passenger" },
-        { "label": "Electricity Backup", "value": "Generator" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Swimming", "value": "Swimming Pool" },
         { "label": "Hall", "value": "Convension Hall" },
-        { "label": "Swimming", "value": "Swimming Pool" }
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": []
     },
@@ -1280,14 +1554,15 @@
       "tag": "ON SALE",
       "community": "The Premium Royal City",
       "priceRange": "1 Crore - 2 Crore BDT",
-      "hoverText": "The Premium Royal City,Ati Society",
+      "hoverText": "The Premium Royal City, Ati Society",
       "brochureLink": "https://drive.google.com/file/d/1kf0wVzwchCuBTbTtJAAdchyGMP9BshFm/view?usp=drive_link",
       "description": "The Premium Crown Tower is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
       "apartmentCount": "1",
-      "fullLocation": "Ati Society ,Ati Model Town",
+      "fullLocation": "Ati Society, Ati Model Town",
       "specifications": [
-        { "label": "Building Type", "value": "COMMERCIAL–RESIDENTIAL BUILDING" },
-        { "label": "Building Orientation", "value": "SOUTH- NORTH FACE" },
+        { "label": "Total Share", "value": "135" },
+        {"label": "Building Type","value": "COMMERCIAL–RESIDENTIAL BUILDING"},
+        { "label": "Building Orientation", "value": "SOUTH-NORTH FACE" },
         { "label": "Unit Per Floor", "value": "9" },
         { "label": "Unit A", "value": "775 SFT" },
         { "label": "Unit B", "value": "800 SFT" },
@@ -1299,20 +1574,668 @@
         { "label": "Unit H", "value": "800 SFT" },
         { "label": "Unit I", "value": "1310 SFT" },
         { "label": "Road", "value": "40, 30 & 25 Feet" },
-        { "label": "Total Share", "value": "135" },
         { "label": "Bedroom", "value": "1/2/3" },
         { "label": "Bathroom", "value": "1/2/3" },
         { "label": "Balcony", "value": "1/2/3" },
-        { "label": "Kitchen", "value": "1" },
         { "label": "Drawing & Dining Room", "value": "1" },
-        { "label": "Garden ", "value": "Rooftop" },
-        { "label": "Parking ", "value": "Car" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
         { "label": "Lift", "value": "Passenger" },
-        { "label": "Electricity Backup", "value": "Generator" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Swimming", "value": "Swimming Pool" },
         { "label": "Hall", "value": "Convension Hall" },
-        { "label": "Swimming", "value": "Swimming Pool" }
+        { "label": "Electricity Backup", "value": "Generator" }
       ],
       "amenities": []
+    },
+    {
+      "id": 27,
+      "name": "The Premium Ariston Villa",
+      "location": "Bashundhara",
+      "types": "4 BEDROOMS",
+      "image": "/assets/Property/AristonProp1.png",
+      "image2": "/assets/Property/AristonProp2.png",
+      "image3": "/assets/Property/AristonProp3.png",
+      "tag": "ON SALE",
+      "priceRange": "1 Crore - 2 Crore BDT",
+      "hoverText": "Bashundhara Residential Area",
+      "community": "Bashundhara Residencial Area",
+      "brochureLink": "https://drive.google.com/drive/folders/1CosJ4VJB33abI-9n-OKCCv8sCkfXlgi8",
+      "description": "The Premium Ariston  Villa celebrates nature and sustainable living. With extensive green spaces, rooftop gardens, and eco-friendly features, this development offers a harmonious blend of urban convenience and natural beauty.",
+      "apartmentCount": "1",
+      "fullLocation": "Bashundhara Residential Area, Dhaka",
+      "mapImage": "/assets/Property/aristonMap.png",
+      "mapLink": "https://drive.google.com/file/d/14d_qQdbUCZMmJAqxu-3Z56MtZ8bDzcDu/view?usp=sharing",
+      "specifications": [
+        { "label": "Total Share", "value": "9" },
+        { "label": "Building Type", "value": "G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Total Floors", "value": "10" },
+        { "label": "Unit Per Floor", "value": "1" },
+        { "label": "Unit A", "value": "2250 SFT" },
+        { "label": "Front Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "4" },
+        { "label": "Bathroom", "value": "4" },
+        { "label": "Balcony", "value": "5" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Rooftop", "value": "Gardening" },
+        { "label": "Lift", "value": "Passenger Only" }
+      ],
+      "amenities": [
+        {
+          "name": "Jamuna Future Park",
+          "img": "/assets/amenities/jamunaFuturePark.png"
+        },
+        {
+          "name": "Bashundhara City Shopping Mall",
+          "img": "/assets/amenities/bashundharaCityMall.png"
+        },
+        {
+          "name": "Bashundara Entertainment Park",
+          "img": "/assets/amenities/bashundharaPark.png"
+        },
+        {
+          "name": "Bashundhara School & College",
+          "img": "/assets/amenities/bashundharaSchool.png"
+        },
+        { "name": "300 Feet", "img": "/assets/amenities/300Feet.png" }
+      ],
+      "statementLink": ""
+    },
+    {
+      "id": 28,
+      "name": "The Premium Studio Suite 1.0",
+      "location": "Ashulia Model Town",
+      "types": "1 BEDROOM",
+      "image": "/assets/Property/studio101.png",
+      "image2": "/assets/Property/studio102.png",
+      "image3": "/assets/Property/studio103.png",
+      "tag": "SOLD OUT!",
+      "community": "Ashulia Model Town",
+      "priceRange": "Under 50 Lac BDT",
+      "hoverText": "D Block, Ashulia Model Town.",
+      "brochureLink": "https://drive.google.com/file/d/168pGvszghe7e9IYswWoXtHWZjFvZ_ueV/view?usp=sharing",
+      "description": "The Premium velinor is designed as an urban oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "D Block, Ashulia Model Town, Ashulia",
+      "mapImage": "/assets/Property/studio1Map.png",
+      "mapLink": "https://maps.app.goo.gl/SAruVgbF76gB7Cmd9",
+      "specifications": [
+        { "label": "Total Share", "value": "72" },
+        { "label": "Building Type", "value": "G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "10 Katha" },
+        { "label": "Unit Per Floor", "value": "8" },
+        { "label": "Unit A", "value": "380 SFT" },
+        { "label": "Unit B", "value": "380 SFT" },
+        { "label": "Unit C", "value": "428 SFT" },
+        { "label": "Unit D", "value": "428 SFT" },
+        { "label": "Unit E", "value": "428 SFT" },
+        { "label": "Unit F", "value": "428 SFT" },
+        { "label": "Unit G", "value": "345 SFT" },
+        { "label": "Unit H", "value": "345 SFT" },
+        { "label": "Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "1" },
+        { "label": "Bathroom", "value": "1" },
+        { "label": "Balcony", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Swimming pool", "value": "1" },
+        { "label": "Fitness", "value": "Gymnasium" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
+      ],
+      "amenities": [
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
+        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
+        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
+        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
+        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
+        { "name": "School", "img": "/assets/amenities/school.jpg" }
+      ]
+    },
+        {
+      "id": 29,
+      "name": "The Premium Fortune Residence",
+      "location": "Ashulia Model Town",
+      "types": "3 BEDROOMS",
+      "image": "/assets/Property/frProp1.png",
+      "image2": "/assets/Property/frProp2.png",
+      "image3": "/assets/Property/frProp3.png",
+      "tag": "ON SALE!",
+      "community": "Ashulia Model Town",
+      "priceRange": "Under 50 Lac BDT",
+      "hoverText": "Ashulia Model Town.",
+      "brochureLink": "https://drive.google.com/file/d/1TZZ0A00TdQmfCXvkgRpPEMUiNfUXP4qT/view",
+      "description": "ThePremium Fortune Residence is designed as an home, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "Ashulia Model Town, Dhaka",
+      "mapImage": "/assets/Property/frMap.png",
+      "mapLink" : "https://maps.app.goo.gl/5bwQGwGVDCLWSq4Y9",
+      "specifications": [
+        { "label": "Total Share", "value": "14" },
+        { "label": "Building Type", "value": "G+7" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "3 Katha" },
+        { "label": "Unit Per Floor", "value": "2" },
+        { "label": "Unit A", "value": "1000 SFT" },
+        { "label": "Unit B", "value": "1000 SFT" },
+        { "label": "Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "3" },
+        { "label": "Bathroom", "value": "3" },
+        { "label": "Balcony", "value": "3" },
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
+      ],
+      "amenities": [
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
+        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
+        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
+        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
+        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
+        { "name": "School", "img": "/assets/amenities/school.jpg" }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "The Premium Dream Palace",
+      "location": "Ashulia Model Town",
+      "types": "3 BEDROOMS",
+      "image": "/assets/Property/dpProp1.png",
+      "image2": "/assets/Property/dpProp2.png",
+      "image3": "/assets/Property/dpProp3.png",
+      "tag": "ON SALE!",
+      "community": "Ashulia Model Town",
+      "priceRange": "50 Lac - 1 Crore BDT",
+      "hoverText": "Ashulia Model Town.",
+      "brochureLink": "https://drive.google.com/drive/folders/1XW8WIgf1y2OpB3UTD7doLgRSYgawRU8W",
+      "description": "The Premium Dream Palace is designed as an home, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "Block G, Lake View Road, Ashulia Model Town",
+      "mapImage": "/assets/Property/dpMap.png",
+      "mapLink" : "https://maps.app.goo.gl/NuaGyjPQqkVnQcHf7",
+      "specifications": [
+        { "label": "Total Share", "value": "18" },
+        { "label": "Building Type", "value": "B+G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Unit Per Floor", "value": "2" },
+        { "label": "Unit A", "value": "1600 SFT" },
+        { "label": "Unit B", "value": "1600 SFT" },
+        { "label": "Road", "value": "60 Feet" },
+        { "label": "Bedroom", "value": "4" },
+        { "label": "Bathroom", "value": "3" },
+        { "label": "Balcony", "value": "3" },
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator"}
+      ],
+      "amenities": [
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
+        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
+        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
+        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
+        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
+        { "name": "School", "img": "/assets/amenities/school.jpg" }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "The Premium Twelfeth Heights",
+      "location": "Bashundhara Residencial Area",
+      "types": "3 BEDROOMS",
+      "image": "/assets/Property/twhProp1.png",
+      "image2": "/assets/Property/twhProp2.png",
+      "image3": "/assets/Property/twhProp3.png",
+      "tag": "ON SALE!",
+      "community": "Bashundhara Residencial Area",
+      "priceRange": "50 Lac - 1 Crore BDT",
+      "hoverText": "Bashundhara Residencial Area",
+      "brochureLink": "https://drive.google.com/file/d/1Bh_wRkxVuZkOGe5MQvWpDDASaG5WVabD/view",
+      "description": "The Premium Twelfeth Heights is designed as an home, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "Madani Avenue Road , Near Metro Rail Bashundhara Residenctial Area ,Dhaka",
+      "mapImage": "/assets/Property/twhMap.png",
+      "mapLink" : "https://maps.app.goo.gl/UnG97LJW9j5pRU4K9",
+      "specifications": [
+        { "label": "Total Share", "value": "36" },
+        { "label": "Building Type", "value": "B+G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "12 Katha" },
+        { "label": "Unit Per Floor", "value": "4" },
+        { "label": "Unit A", "value": "1550 SFT" },
+        { "label": "Unit B", "value": "1550 SFT" },
+        { "label": "Unit C", "value": "1600 SFT" },
+        { "label": "Unit D", "value": "1600 SFT" },
+        { "label": "Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "3" },
+        { "label": "Bathroom", "value": "3" },
+        { "label": "Balcony", "value": "3" },
+        { "label": "Drawing & Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator"}
+      ],
+      "amenities": [
+        {
+          "name": "Jamuna Future Park",
+          "img": "/assets/amenities/jamunaFuturePark.png"
+        },
+        {
+          "name": "Bashundhara City Shopping Mall",
+          "img": "/assets/amenities/bashundharaCityMall.png"
+        },
+        {
+          "name": "Bashundara Entertainment Park",
+          "img": "/assets/amenities/bashundharaPark.png"
+        },
+        {
+          "name": "Bashundhara School & College",
+          "img": "/assets/amenities/bashundharaSchool.png"
+        },
+        { "name": "300 Feet", "img": "/assets/amenities/300Feet.png" }
+      ]
+    },
+        {
+      "id": 32,
+      "name": "The Premium Studio Suite 6.0",
+      "location": "Ashulia Model Town",
+      "types": "1 BEDROOM",
+      "image": "/assets/Property/std601.png",
+      "image2": "/assets/Property/std602.png",
+      "image3": "/assets/Property/std603.png",
+      "tag": "ON SALE!",
+      "community": "Ashulia Model Town",
+      "priceRange": "Under 50 Lac BDT",
+      "hoverText": "D Block, Ashulia Model Town.",
+      "brochureLink": "",
+      "description": "The Premium studio suite 6.0 is designed as an studio oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "",
+      "mapImage": "",
+      "specifications": [
+        { "label": "Total Share", "value": "72" },
+        { "label": "Building Type", "value": "G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Unit Per Floor", "value": "6" },
+        { "label": "Unit A", "value": "380 SFT" },
+        { "label": "Unit B", "value": "380 SFT" },
+        { "label": "Unit C", "value": "430 SFT" },
+        { "label": "Unit D", "value": "430 SFT" },
+        { "label": "Unit E", "value": "430 SFT" },
+        { "label": "Unit F", "value": "430 SFT" },
+        { "label": "Unit G", "value": "345 SFT" },
+        { "label": "Unit H", "value": "345 SFT" },
+        { "label": "Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "1" },
+        { "label": "Bathroom", "value": "1" },
+        { "label": "Balcony", "value": "1/2" },
+        { "label": "Drawing Cum  Dining & Kitchen Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Hall", "value": "Convension Hall" },
+        { "label": "Electricity Backup", "value": "Generator" }
+      ],
+      "amenities": [
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
+        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
+        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
+        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
+        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
+        { "name": "School", "img": "/assets/amenities/school.jpg" }
+      ]
+    },
+        {
+      "id": 33,
+      "name": "The Premium Ariston",
+      "location": "Bashundhara Residencial Area",
+      "types": "4 BEDROOMS",
+      "image": "/assets/Property/parProp1.png",
+      "image2": "/assets/Property/parProp2.png",
+      "image3": "/assets/Property/parProp3.png",
+      "tag": "ON SALE!",
+      "community": "Bashundhara Residencial Area",
+      "priceRange": "1 Crore - 2 Crore BDT",
+      "hoverText": "Bashundhara Residencial Area",
+      "brochureLink": "https://drive.google.com/file/d/1v8ne9A8Mx2BQXx4tQfN21f3hOeMGOWt8/view?usp=drive_link",
+      "description": "The Premium  Ariston is designed as an  oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "Bashundhara Residencial Area",
+      "mapImage": "",
+      "specifications": [
+        { "label": "Total Share", "value": "9" },
+        { "label": "Building Type", "value": "G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Unit Per Floor", "value": "1" },
+        { "label": "Unit A", "value": "2050 SFT" },
+        { "label": "Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "4" },
+        { "label": "Bathroom", "value": "4" },
+        { "label": "Balcony", "value": "5" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room ", "value": "1" },
+        { "label": "Kichen", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Only Passenger" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Electricity Backup", "value": "Generator" }
+      ],
+      "amenities": [
+        {
+          "name": "Jamuna Future Park",
+          "img": "/assets/amenities/jamunaFuturePark.png"
+        },
+        {
+          "name": "Bashundhara City Shopping Mall",
+          "img": "/assets/amenities/bashundharaCityMall.png"
+        },
+        {
+          "name": "Bashundara Entertainment Park",
+          "img": "/assets/amenities/bashundharaPark.png"
+        },
+        {
+          "name": "Bashundhara School & College",
+          "img": "/assets/amenities/bashundharaSchool.png"
+        },
+        { "name": "300 Feet", "img": "/assets/amenities/300Feet.png" }
+      ]
+    },
+            {
+      "id": 34,
+      "name": "The Premium Studio Suite 4.0",
+      "location": "Ashulia Model Town",
+      "types": "1,2,3 BEDROOMS",
+      "image": "/assets/Property/std401.png",
+      "image2": "/assets/Property/std402.png",
+      "image3": "/assets/Property/std403.png",
+      "tag": "ON SALE!",
+      "community": "Ashulia Model Town",
+      "priceRange": "Under 50 Lac BDT",
+      "hoverText": "D Block, Ashulia Model Town.",
+      "brochureLink": "https://drive.google.com/drive/folders/1CosJ4VJB33abI-9n-OKCCv8sCkfXlgi8",
+      "description": "The Premium studio suite 4.0 is designed as an studio oasis, where lush greenery meets contemporary architecture. With over 60% green coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "Block F, Road 4, Ashulia Model Town",
+      "mapImage": "",
+      "specifications": [
+        { "label": "Total Share", "value": "63" },
+        { "label": "Building Type", "value": "G+9" },
+        { "label": "Building Orientation", "value": "North" },
+        { "label": "Land Size", "value": "8 Katha" },
+        { "label": "Unit Per Floor", "value": "7" },
+        { "label": "Unit A", "value": "850 SFT" },
+        { "label": "Unit B", "value": "530 SFT" },
+        { "label": "Unit C", "value": "870 SFT" },
+        { "label": "Unit D", "value": "765 SFT" },
+        { "label": "Unit E", "value": "1100 SFT" },
+        { "label": "Unit F", "value": "585 SFT" },
+        { "label": "Unit G", "value": "775 SFT" },
+        { "label": "Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "3/2/1" },
+        { "label": "Bathroom", "value": "3/2/1" },
+        { "label": "Balcony", "value": "2/3" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Two" },
+        { "label": "Parking", "value": "Car Parking" },
+        { "label": "Electricity Backup", "value": "Generator" }
+      ],
+      "amenities": [
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
+        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
+        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
+        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
+        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
+        { "name": "School", "img": "/assets/amenities/school.jpg" }
+      ]
+    },
+            {
+      "id": 35,
+      "name": "The Premium Crown Pavilion",
+      "location": "Ashulia Model Town",
+      "types": "1,2,3 BEDROOMS",
+      "image": "/assets/Property/crpProp1.png",
+      "image2": "/assets/Property/crpProp3.png",
+      "image3": "/assets/Property/crpProp4.png",
+      "tag": "ON SALE!",
+      "community": "The Premium Smart City",
+      "priceRange": "Under 50 Lac BDT",
+      "hoverText": "D Block, Ashulia Model Town.",
+      "brochureLink": "https://drive.google.com/file/d/1WWOYZU0AGGHb6uJDe1SOhOEHsIbJFGpN/view?usp=drive_link",
+      "description": "The Premium Crown Pavilion is designed as an studio oasis, where lush greenery meets contemporary modern architecture. With  coverage and sustainable design principles, it offers residents a peaceful retreat from city life.",
+      "apartmentCount": "1",
+      "fullLocation": "Block F, Road 4, Ashulia Model Town",
+      "mapImage": "",
+      "mapLink":"",
+      "specifications": [
+        { "label": "Total Share", "value": "126" },
+        { "label": "Building Type", "value": "B+G+14" },
+        { "label": "Building Orientation", "value": "Sourth-North-Face" },
+        { "label": "Unit Per Floor", "value": "9" },
+        { "label": "Unit A", "value": "635 SFT" },
+        { "label": "Unit B", "value": "900 SFT" },
+        { "label": "Unit C", "value": "680 SFT" },
+        { "label": "Unit D", "value": "785 SFT" },
+        { "label": "Unit E", "value": "715 SFT" },
+        { "label": "Unit F", "value": "755 SFT" },
+        { "label": "Unit G", "value": "610 SFT" },
+        { "label": "Unit H", "value": "1100 SFT" },
+        { "label": "Unit I", "value": "1140 SFT" },
+        { "label": "Road", "value": "50,40,30 Feet" },
+        { "label": "Bedroom", "value": "3/2/1" },
+        { "label": "Bathroom", "value": "2/1" },
+        { "label": "Balcony", "value": "2/1" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Dining Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Garden", "value": "Rooftop" },
+        { "label": "Lift", "value": "Two" },
+        { "label": "Cargo Lift", "value": "One"},
+        { "label": "Convention Hall", "value": "One"},
+        { "label": "Parking", "value": "Car Parking"},
+        { "label": "Electricity Backup", "value": "Generator" }
+      ],
+      "amenities": [
+        {
+          "name": "Daffodil International University",
+          "img": "/assets/amenities/daffodil.png"
+        },
+        {
+          "name": "Brac University (Tarc)",
+          "img": "/assets/amenities/Brac.png"
+        },
+        {
+          "name": "Manarat International University",
+          "img": "/assets/amenities/Manarat.png"
+        },
+        { "name": "Brac CDM", "img": "/assets/amenities/braccdm.png" },
+        {
+          "name": "Eastern University",
+          "img": "/assets/amenities/eastern.png"
+        },
+        { "name": "Dhaka Metro Rail", "img": "/assets/amenities/metro.png" },
+        {
+          "name": "City University",
+          "img": "/assets/amenities/cityUniversity.png"
+        },
+        { "name": "Bus Stoppage", "img": "/assets/amenities/busstop.webp" },
+        { "name": "Majshid", "img": "/assets/amenities/mosque.jpg" },
+        { "name": "School", "img": "/assets/amenities/school.jpg" }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "The Premium Armonia",
+      "location": "Bashundhara Residencial Area",
+      "types": "4 BEDROOMS",
+      "image": "/assets/Property/arProp1.png",
+      "image2": "/assets/Property/arProp2.png",
+      "image3": "/assets/Property/arProp3.png",
+      "tag": "ON SALE!",
+      "priceRange": "1 Crore - 2 Crore BDT",
+      "hoverText": "Bashundhara Residential Area",
+      "community": "Bashundhara Residencial Area",
+      "brochureLink": "https://drive.google.com/drive/folders/1XW8WIgf1y2OpB3UTD7doLgRSYgawRU8W",
+      "description": "The Premium Armonia celebrates nature and sustainable living in Dhakas One of the most popular area. With extensive green spaces, rooftop gardens, and eco-friendly features, this development offers a harmonious blend of urban convenience and natural beauty.",
+      "apartmentCount": "1",
+      "fullLocation": "4613 , Block N, Bashundhara Residential Area, Dhaka",
+      "mapImage": "../assets/Property/arMap.png",
+      "mapLink": "",
+      "specifications": [
+        { "label": "Total Share", "value": "9" },
+        { "label": "Building Type", "value": "G+9" },
+        { "label": "Building Orientation", "value": "South" },
+        { "label": "Land Size", "value": "5 Katha" },
+        { "label": "Total Floors", "value": "10" },
+        { "label": "Unit Per Floor", "value": "1" },
+        { "label": "Unit A", "value": "2250 SFT" },
+        { "label": "Front Road", "value": "25 Feet" },
+        { "label": "Bedroom", "value": "4" },
+        { "label": "Bathroom", "value": "4" },
+        { "label": "Balcony", "value": "6" },
+        { "label": "Drawing Room", "value": "1" },
+        { "label": "Kitchen", "value": "1" },
+        { "label": "Servant Wasroom", "value": "1" },
+        { "label": "Lift", "value": "Passenger Only" }
+      ],
+      "amenities": [
+        {
+          "name": "Jamuna Future Park",
+          "img": "/assets/amenities/jamunaFuturePark.png"
+        },
+        {
+          "name": "Bashundhara City Shopping Mall",
+          "img": "/assets/amenities/bashundharaCityMall.png"
+        },
+        {
+          "name": "Bashundara Entertainment Park",
+          "img": "/assets/amenities/bashundharaPark.png"
+        },
+        {
+          "name": "Bashundhara School & College",
+          "img": "/assets/amenities/bashundharaSchool.png"
+        },
+        { "name": "300 Feet", "img": "/assets/amenities/300Feet.png" }
+      ],
+      "statementLink": ""
     }
   ],
   "allBlogs": [

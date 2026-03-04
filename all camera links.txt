@@ -1,0 +1,50 @@
+  const cameraFeeds = [
+    {
+      id: 1,
+      name: 'The Premium Garden View - Camera 1',
+      location: 'Property 15 - Flat 1A/1B',
+      propertyName: 'The Premium Garden View',
+      url: 'https://rtsp.me/embed/zkYhn9Hs/',
+      type: 'rtsp'
+    },
+    {
+      id: 2,
+      name: 'The Premium Garden View - Camera 2',
+      location: 'Property 15 - Flat 1A/1B',
+      propertyName: 'The Premium Garden View',
+      url: 'https://rtsp.me/embed/Ek9efBY6/',
+      type: 'rtsp'
+    },
+    {
+      id: 3,
+      name: 'The Premium Garden - Camera 1',
+      location: 'Property 8 - Flat 1B/4B',
+      propertyName: 'The Premium GLory Garden',
+      url: 'https://rtsp.me/embed/T3yy42rf/',
+      type: 'rtsp'
+    },
+    {
+      id: 4,
+      name: 'The Premium Garden - Camera 2',
+      location: 'Property 8 - Flat 1B/4B',
+      propertyName: 'The Premium Glory Garden',
+      url: 'https://rtsp.me/embed/b5D5454Q/',
+      type: 'rtsp'
+    },
+    {
+      id: 5,
+      name: 'The Harmony Residence - Camera 1',
+      location: 'Property 17 - Flat 1A',
+      propertyName: 'The Harmony Residence',
+      url: 'https://rtsp.me/embed/4BtSR2sB/',
+      type: 'rtsp'
+    },
+    {
+      id: 6,
+      name: 'The Harmony Residence - Camera 2',
+      location: 'Property 17 - Flat 1A',
+      propertyName: 'The Harmony Residence',
+      url: 'https://rtsp.me/embed/EEKRdE98/',
+      type: 'rtsp'
+    },
+  ];

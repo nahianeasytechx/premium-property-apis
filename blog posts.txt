@@ -1,0 +1,2 @@
+https://premium-api.dvalleybd.com/blogs.php?action=get-all-blogs  
+https://premium-api.dvalleybd.com/blogs.php?action=get-blog-by-id

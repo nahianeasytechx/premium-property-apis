@@ -1,0 +1,25 @@
+{
+     "baseUrl": "http://premium-api.dvalleybd.com/",
+  "slides": [
+    {
+      "title": "THE PREMIUM SMART CITY",
+      "subtitle": "Premium Living Await You",
+      "image": "/assets/Banner-images/bannerThree.png"
+    },
+    {
+      "title": "THE PREMIUM ROYAL CITY",
+      "subtitle": "Modern Urban Living",
+      "image": "/assets/Banner-images/bannerFive.png"
+    },
+    {
+      "title": "ASHULIA MODEL TOWN",
+      "subtitle": "Your Dream Home",
+      "image": "/assets/Banner-images/bannerOne.png"
+    },
+    {
+      "title": "MODERN LIVING",
+      "subtitle": "Contemporary Lifestyle",
+      "image": "/assets/Banner-images/bannerFour.png"
+    }
+  ]
+}

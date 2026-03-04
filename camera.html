@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HLS Stream Test</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.4.12/hls.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0f172a; color: #e2e8f0; font-family: sans-serif; padding: 24px; }
+    h1 { font-size: 1.4rem; margin-bottom: 20px; color: #34d399; }
+    .cam-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    @media(max-width: 700px) { .cam-grid { grid-template-columns: 1fr; } }
+    .cam-card { background: #1e293b; border-radius: 12px; overflow: hidden; }
+    .cam-header { padding: 12px 16px; display: flex; align-items: center; gap: 10px; background: #0f172a; }
+    .live-badge { background: #dc2626; color: white; font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 999px; display: flex; align-items: center; gap: 4px; }
+    .live-dot { width: 6px; height: 6px; background: white; border-radius: 50%; animation: pulse 1s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    .cam-label { font-size: 13px; font-weight: 600; color: #94a3b8; }
+    video { width: 100%; display: block; background: #000; aspect-ratio: 16/9; }
+    .status { padding: 10px 16px; font-size: 12px; min-height: 36px; }
+    .status.ok { color: #34d399; }
+    .status.err { color: #f87171; }
+    .status.loading { color: #fbbf24; }
+    .url-box { padding: 8px 16px 14px; font-size: 11px; color: #64748b; word-break: break-all; }
+    .retry-btn { margin: 0 16px 14px; padding: 6px 16px; background: #059669; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 13px; display: none; }
+    .retry-btn:hover { background: #047857; }
+  </style>
+</head>
+<body>
+  <h1>📡 HLS Live Stream Test</h1>
+  <div class="cam-grid">
+    <div class="cam-card">
+      <div class="cam-header">
+        <span class="live-badge"><span class="live-dot"></span> LIVE</span>
+        <span class="cam-label">Camera 1 — Harmony Residence</span>
+      </div>
+      <video id="video1" muted playsinline controls></video>
+      <div class="status loading" id="status1">⏳ Initializing…</div>
+      <button class="retry-btn" id="retry1" onclick="initStream('video1','status1','retry1', url1)">🔄 Retry</button>
+      <div class="url-box" id="url1"></div>
+    </div>
+    <div class="cam-card">
+      <div class="cam-header">
+        <span class="live-badge"><span class="live-dot"></span> LIVE</span>
+        <span class="cam-label">Camera 2 — Harmony Residence</span>
+      </div>
+      <video id="video2" muted playsinline controls></video>
+      <div class="status loading" id="status2">⏳ Initializing…</div>
+      <button class="retry-btn" id="retry2" onclick="initStream('video2','status2','retry2', url2)">🔄 Retry</button>
+      <div class="url-box" id="url2"></div>
+    </div>
+  </div>
+
+  <script>
+    const url1 = "https://thepremiumhomesltd.com/tphl/hls/The%20Premium%20Harmony%20Residence/cam01.m3u8";
+    const url2 = "https://thepremiumhomesltd.com/tphl/hls/The%20Premium%20Harmony%20Residence/cam02.m3u8";
+
+    function initStream(videoId, statusId, retryId, url) {
+      const video = document.getElementById(videoId);
+      const statusEl = document.getElementById(statusId);
+      const retryBtn = document.getElementById(retryId);
+      const urlBox = document.getElementById(retryId.replace('retry','url'));
+
+      urlBox.textContent = "🔗 " + url;
+      statusEl.className = 'status loading';
+      statusEl.textContent = '⏳ Connecting to stream…';
+      retryBtn.style.display = 'none';
+
+      if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        // Native HLS (Safari)
+        video.src = url;
+        video.addEventListener('loadedmetadata', () => {
+          statusEl.className = 'status ok';
+          statusEl.textContent = '✅ Stream loaded (native HLS)';
+          video.play();
+        }, { once: true });
+        video.addEventListener('error', () => {
+          statusEl.className = 'status err';
+          statusEl.textContent = '❌ Error loading stream (native)';
+          retryBtn.style.display = 'inline-block';
+        }, { once: true });
+        return;
+      }
+
+      if (!Hls.isSupported()) {
+        statusEl.className = 'status err';
+        statusEl.textContent = '❌ HLS not supported in this browser';
+        return;
+      }
+
+      // Destroy existing instance if retrying
+      if (video._hls) { video._hls.destroy(); video._hls = null; }
+
+      const hls = new Hls({
+        enableWorker: true,
+        lowLatencyMode: true,
+        backBufferLength: 30,
+      });
+      video._hls = hls;
+
+      hls.loadSource(url);
+      hls.attachMedia(video);
+
+      hls.on(Hls.Events.MANIFEST_PARSED, () => {
+        statusEl.className = 'status ok';
+        statusEl.textContent = '✅ Manifest parsed — stream is live!';
+        video.play();
+      });
+
+      hls.on(Hls.Events.ERROR, (event, data) => {
+        console.error(`[${videoId}] HLS Error:`, data);
+        if (data.fatal) {
+          statusEl.className = 'status err';
+          statusEl.textContent = `❌ Fatal error: ${data.type} — ${data.details}`;
+          retryBtn.style.display = 'inline-block';
+          hls.destroy();
+        } else {
+          statusEl.className = 'status err';
+          statusEl.textContent = `⚠️ Non-fatal: ${data.details}`;
+        }
+      });
+
+      hls.on(Hls.Events.LEVEL_LOADED, () => {
+        statusEl.className = 'status ok';
+        statusEl.textContent = '✅ Level loaded — receiving data';
+      });
+    }
+
+    initStream('video1', 'status1', 'retry1', url1);
+    initStream('video2', 'status2', 'retry2', url2);
+  </script>
+</body>
+</html>

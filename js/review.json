@@ -1,0 +1,55 @@
+{
+  "baseUrl": "http://premium-api.dvalleybd.com/premium-property-data/",
+  "review": [
+    {
+      "id": 1,
+      "name": "Rj Kebria",
+      "role": "Property Investor",
+      "rating": 5,
+      "videoUrl": "https://www.youtube.com/embed/qM5_UKR-vzk?autoplay=1",
+      "review": "The Premium Homes exceeded all our expectations. The quality of construction and attention to detail is remarkable. Our family couldn't be happier!",
+      "date": "March 2024",
+      "project": "The Premium Green Valley"
+    },
+    {
+      "id": 2,
+      "name": "Karim Rahman",
+      "role": "Property Investor",
+      "rating": 5,
+      "videoUrl": "https://youtube.com/embed/zxcvNVqIl-0",
+      "review": "Outstanding investment opportunity. The location, amenities, and build quality make this one of the best real estate investments in Dhaka.",
+      "date": "February 2024",
+      "project": "The Premium Glory Garden"
+    },
+    {
+      "id": 3,
+      "name": "Mr. Mainul Hasan",
+      "role": "Resident",
+      "rating": 5,
+      "videoUrl": "https://youtube.com/embed/8fbwq7b4SFk",
+      "review": "Living here has been an absolute dream. The community is wonderful and the facilities are world-class. Highly recommend to anyone looking for their dream home.",
+      "date": "January 2024",
+      "project": "The Premium Harmony Residence"
+    },
+    {
+      "id": 4,
+      "name": "Rj Kibria ",
+      "role": "Business Owner",
+      "rating": 5,
+      "videoUrl": "https://www.youtube.com/embed/5TxIjYfNsZg?si=epH2DzkkNtF3sbd7",
+      "review": "The professionalism and transparency throughout the entire process was impressive. Premium Homes truly lives up to its name.",
+      "date": "December 2023",
+      "project": "The Premium Floral Haven"
+    },
+    {
+      "id": 4,
+      "name": "Rj Kibria ",
+      "role": "Business Owner",
+      "rating": 5,
+      "videoUrl": "https://www.youtube.com/embed/qM5_UKR-vzk",
+      "review": "The professionalism and transparency throughout the entire process was impressive. Premium Homes truly lives up to its name.",
+      "date": "December 2023",
+      "project": "The Premium Floral Haven"
+    }
+  ]
+}

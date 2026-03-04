@@ -1,4 +1,14 @@
 <?php
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With");
+
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit();
+}
+// ──────────────────────────────────────────────────────────────
+
 session_start();
 require_once './config.php';
 header('Content-Type: application/json');
@@ -54,6 +64,16 @@ function sendUnauthorized($message = "Authentication required. Please log in.") 
     exit();
 }
 
+// NEW: Helper function to load all properties from data.json
+function loadAllProperties() {
+    $file = './js/data.json';
+    if (!file_exists($file)) {
+        return [];
+    }
+    $data = json_decode(file_get_contents($file), true);
+    return $data['allProperties'] ?? [];
+}
+
 // Receive the action type
 $action = $_GET['action'] ?? '';
 if ($action === '') {
@@ -89,9 +109,15 @@ $allUsers = $usersData['users'] ?? [];
 //////////////////////////////////////////////////////////////////////////////////////
 // PUBLIC ENDPOINT - Handle 'authenticate-user' action (for login) - NO AUTH REQUIRED
 //////////////////////////////////////////////////////////////////////////////////////
+ 
 if ($action === 'authenticate-user') {
-    $email = $_POST['email'] ?? '';
-    $password = $_POST['password'] ?? '';
+    // Read JSON input
+    $input = file_get_contents('php://input');
+    $data = json_decode($input, true);
+    
+    // Try JSON first, fall back to POST for form data
+    $email = $data['email'] ?? $_POST['email'] ?? '';
+    $password = $data['password'] ?? $_POST['password'] ?? '';
     
     if (!$email || !$password) {
         echo json_encode([
@@ -302,8 +328,12 @@ if ($action === 'get-users-by-property') {
     exit();
 }
 
+
 //////////////////////////////////////////////////////////////////////////////////////
-// Handle 'get-user-flats' action - PROTECTED
+// Handle 'get-user-flats' action - with debug info
+//////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+// Handle 'get-user-flats' action
 //////////////////////////////////////////////////////////////////////////////////////
 if ($action === 'get-user-flats') {
     $userId = $_GET['userId'] ?? 0;
@@ -315,12 +345,6 @@ if ($action === 'get-user-flats') {
         ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
         exit();
     }
-    
-    // Optional: Ensure users can only view their own flats
-    // Uncomment to restrict access to own flats only
-    // if ($authenticatedUser['id'] != $userId) {
-    //     sendUnauthorized("You can only view your own flats.");
-    // }
     
     $foundUser = null;
     foreach ($allUsers as $user) {
@@ -338,29 +362,22 @@ if ($action === 'get-user-flats') {
         exit();
     }
     
-    // Get all flat details for this user
-    $userFlats = [];
-    if (isset($foundUser['flatDetails']) && is_array($foundUser['flatDetails'])) {
-        foreach ($foundUser['flatDetails'] as $propertyId => $flatDetails) {
-            $userFlats[] = [
-                'propertyId' => (int)$propertyId,
-                'flatDetails' => $flatDetails
-            ];
-        }
-    }
+    // Create a response without password
+    $userResponse = $foundUser;
+    unset($userResponse['password']);
+    
+    // The savedProperties already contain all the property details
+    // (name, location, image) as we've added them directly to user.json
     
     $response = [
         "success" => true,
         "message" => "User flats loaded successfully.",
-        "userId" => (int)$userId,
-        "flats" => $userFlats
+        "user" => $userResponse
     ];
 
     echo json_encode($response, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
     exit();
-}
-
-//////////////////////////////////////////////////////////////////////////////////////
+}///////////////////////////////////////////////////////////////////////////////////
 // Handle 'get-current-user' action - Get logged-in user's info - PROTECTED
 //////////////////////////////////////////////////////////////////////////////////////
 if ($action === 'get-current-user') {
