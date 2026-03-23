@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once './config.php';
-header('Content-Type: application/javascript');
+header('Content-Type: application/json');
 
 // Custom JSON error handler
 set_exception_handler(function ($exception) {
@@ -57,22 +57,17 @@ function prefixBlogImages($blog, $base_url) {
 //////////////////////////// Handle the 'get-all-blogs' action //////////////////////
 //////////////////////////////////////////////////////////////////////////////////////
 if ($action == 'get-all-blogs') {
-
     $allBlogs = $data['allBlogs'] ?? [];
     foreach ($allBlogs as &$blog) {
         $blog = prefixBlogImages($blog, $base_url);
     }
-
-    $response = [
+    echo json_encode([
         "success" => true,
         "message" => "All blogs loaded successfully.",
         "blogs" => $allBlogs
-    ];
-
-    echo json_encode($response, JSON_PRETTY_PRINT);
+    ], JSON_PRETTY_PRINT);
     exit();
 }
-//////////////////////////////////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////////////////
 //////////////////////// Handle 'get-blog-by-id' action //////////////////////////////
@@ -109,7 +104,43 @@ if ($action == 'get-blog-by-id') {
     }
     exit();
 }
+
 //////////////////////////////////////////////////////////////////////////////////////
+//////////////////////// Handle 'get-blog-by-slug' action ////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+if ($action == 'get-blog-by-slug') {
+    // Decode and trim the incoming slug
+    $slug = urldecode(trim($_GET['slug'] ?? ''));
+    if ($slug === '') {
+        echo json_encode([
+            "success" => false,
+            "message" => "Blog slug not specified!"
+        ], JSON_PRETTY_PRINT);
+        exit();
+    }
+
+    $found = null;
+    foreach ($data['allBlogs'] as $blog) {
+        if (isset($blog['slug']) && strcasecmp(trim($blog['slug']), $slug) === 0) {
+            $found = prefixBlogImages($blog, $base_url);
+            break;
+        }
+    }
+
+    if ($found) {
+        echo json_encode([
+            "success" => true,
+            "message" => "Blog loaded successfully.",
+            "blog" => $found
+        ], JSON_PRETTY_PRINT);
+    } else {
+        echo json_encode([
+            "success" => false,
+            "message" => "Blog not found!"
+        ], JSON_PRETTY_PRINT);
+    }
+    exit();
+}
 
 // Handle wrong/invalid action
 echo json_encode([

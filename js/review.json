@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://premium-api.dvalleybd.com/premium-property-data/",
+  "baseUrl": "https://api.dpremiumhomes.com/",
   "review": [
     {
       "id": 1,

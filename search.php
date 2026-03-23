@@ -33,7 +33,7 @@ if ($data === null) {
 
 $base_url = $data['baseUrl'] ?? '';
 
-// ─── Helpers (same as index.php) ─────────────────────────────────────────────
+// ── Helper functions ──────────────────────────────────────────────
 
 function prefixImages($item, $base_url, $keys = null) {
     if (!$keys) $keys = ['image', 'image2', 'image3', 'mapImage'];
@@ -99,111 +99,103 @@ function generateFilters($project) {
     return $filters;
 }
 
-// ─── Search logic ─────────────────────────────────────────────────────────────
+// ── Get filter values from URL ──────────────────────────────────────
 
-/*
-  Accepted GET parameters (all optional, combined with AND logic):
-    q           – free-text query (searches name, location, community, types, description, fullLocation)
-    community   – exact community match (case-insensitive)
-    priceRange  – exact price range match (case-insensitive)
-    tag         – e.g. "ON SALE", "SOLD OUT" (case-insensitive); use "available" to get non-sold-out, non-cancelled
-    bedrooms    – number of bedrooms (searches types field and Bedroom spec)
-    minSize     – minimum unit size in SFT
-    maxSize     – maximum unit size in SFT
-    bathrooms   – number of bathrooms
-    location    – matches location OR fullLocation (case-insensitive, partial)
-    page        – page number (default 1)
-    limit       – results per page (default 12, max 50)
-*/
-
-$q          = trim($_GET['q']          ?? '');
-$community  = trim($_GET['community']  ?? '');
-$priceRange = trim($_GET['priceRange'] ?? '');
-$tag        = trim($_GET['tag']        ?? '');
-$bedrooms   = trim($_GET['bedrooms']   ?? '');
-$minSize    = (int)($_GET['minSize']   ?? 0);
-$maxSize    = (int)($_GET['maxSize']   ?? 0);
-$bathrooms  = trim($_GET['bathrooms']  ?? '');
-$location   = trim($_GET['location']   ?? '');
-$page       = max(1, (int)($_GET['page']  ?? 1));
+$q          = trim($_GET['q'] ?? '');
+$communities = isset($_GET['community']) && $_GET['community'] !== '' 
+    ? array_map('trim', explode(',', $_GET['community'])) 
+    : [];
+$priceRanges = isset($_GET['priceRange']) && $_GET['priceRange'] !== '' 
+    ? array_map('trim', explode(',', $_GET['priceRange'])) 
+    : [];
+$tag        = trim($_GET['tag'] ?? '');
+$bedrooms   = trim($_GET['bedrooms'] ?? '');
+$minSize    = (int)($_GET['minSize'] ?? 0);
+$maxSize    = (int)($_GET['maxSize'] ?? 0);
+$bathrooms  = trim($_GET['bathrooms'] ?? '');
+$location   = trim($_GET['location'] ?? '');
+$page       = max(1, (int)($_GET['page'] ?? 1));
 $limit      = min(50, max(1, (int)($_GET['limit'] ?? 12)));
 
 $allProperties = $data['allProperties'] ?? [];
 $results = [];
 
+// ── Search logic ───────────────────────────────────────────────────
+
 foreach ($allProperties as $project) {
-    // ── Always exclude cancelled projects ────────────────────────────────────
+
+    // Skip cancelled projects
     $projectTag = strtoupper(trim($project['tag'] ?? ''));
     if (in_array($projectTag, ['CANCELED', 'CANCELLED', 'CANCLED'])) continue;
 
-    // ── tag filter ───────────────────────────────────────────────────────────
+    // Tag filter
     if ($tag !== '') {
         if (strtolower($tag) === 'available') {
-            // available = not sold out
             if (stripos($projectTag, 'SOLD') !== false) continue;
         } else {
             if (stripos($projectTag, strtoupper($tag)) === false) continue;
         }
     }
 
-    // ── community filter ─────────────────────────────────────────────────────
-    if ($community !== '') {
-        if (strcasecmp(trim($project['community'] ?? ''), $community) !== 0) continue;
+    // Community multi-filter (comma-separated)
+    if (!empty($communities)) {
+        $matched = false;
+        foreach ($communities as $c) {
+            if (strcasecmp(trim($project['community'] ?? ''), $c) === 0) {
+                $matched = true;
+                break;
+            }
+        }
+        if (!$matched) continue;
     }
 
-    // ── priceRange filter ────────────────────────────────────────────────────
-    if ($priceRange !== '') {
-        if (strcasecmp(trim($project['priceRange'] ?? ''), $priceRange) !== 0) continue;
+    // Price range multi-filter (comma-separated)
+    if (!empty($priceRanges)) {
+        $matched = false;
+        foreach ($priceRanges as $p) {
+            if (strcasecmp(trim($project['priceRange'] ?? ''), $p) === 0) {
+                $matched = true;
+                break;
+            }
+        }
+        if (!$matched) continue;
     }
 
-    // ── location filter (partial, checks location + fullLocation) ────────────
+    // Location filter
     if ($location !== '') {
         $locHaystack = strtolower(($project['location'] ?? '') . ' ' . ($project['fullLocation'] ?? ''));
         if (stripos($locHaystack, $location) === false) continue;
     }
 
-    // ── bedrooms filter ──────────────────────────────────────────────────────
+    // Bedrooms filter
     if ($bedrooms !== '') {
         $bedroomMatched = false;
-
-        // Check 'types' field (e.g. "1, 2 BEDROOMS & PENTHOUSE", "3 BEDROOMS")
         $typesField = strtolower($project['types'] ?? '');
-        if (strpos($typesField, $bedrooms) !== false) {
-            $bedroomMatched = true;
-        }
-
-        // Check specifications Bedroom label
+        if (strpos($typesField, $bedrooms) !== false) $bedroomMatched = true;
         if (!$bedroomMatched) {
             foreach ($project['specifications'] ?? [] as $spec) {
                 if (isset($spec['label']) && strtolower($spec['label']) === 'bedroom') {
                     $vals = array_map('trim', explode('/', $spec['value']));
-                    if (in_array($bedrooms, $vals)) {
-                        $bedroomMatched = true;
-                        break;
-                    }
+                    if (in_array($bedrooms, $vals)) { $bedroomMatched = true; break; }
                 }
             }
         }
-
         if (!$bedroomMatched) continue;
     }
 
-    // ── bathrooms filter ─────────────────────────────────────────────────────
+    // Bathrooms filter
     if ($bathrooms !== '') {
         $bathMatched = false;
         foreach ($project['specifications'] ?? [] as $spec) {
             if (isset($spec['label']) && strtolower($spec['label']) === 'bathroom') {
                 $vals = array_map('trim', explode('/', $spec['value']));
-                if (in_array($bathrooms, $vals)) {
-                    $bathMatched = true;
-                    break;
-                }
+                if (in_array($bathrooms, $vals)) { $bathMatched = true; break; }
             }
         }
         if (!$bathMatched) continue;
     }
 
-    // ── size filter (min/max SFT) ─────────────────────────────────────────────
+    // Size filter
     if ($minSize > 0 || $maxSize > 0) {
         $sizeMatched = false;
         foreach ($project['specifications'] ?? [] as $spec) {
@@ -212,60 +204,53 @@ foreach ($allProperties as $project) {
                 $size = (int)trim(explode('SFT', $spec['value'])[0]);
                 $aboveMin = ($minSize === 0 || $size >= $minSize);
                 $belowMax = ($maxSize === 0 || $size <= $maxSize);
-                if ($aboveMin && $belowMax) {
-                    $sizeMatched = true;
-                    break;
-                }
+                if ($aboveMin && $belowMax) { $sizeMatched = true; break; }
             }
         }
         if (!$sizeMatched) continue;
     }
 
-    // ── free-text query ───────────────────────────────────────────────────────
+    // Free-text query
     if ($q !== '') {
         $haystack = strtolower(implode(' ', [
-            $project['name']         ?? '',
-            $project['location']     ?? '',
-            $project['community']    ?? '',
-            $project['types']        ?? '',
-            $project['description']  ?? '',
+            $project['name'] ?? '',
+            $project['location'] ?? '',
+            $project['community'] ?? '',
+            $project['types'] ?? '',
+            $project['description'] ?? '',
             $project['fullLocation'] ?? '',
-            $project['tag']          ?? '',
-            $project['priceRange']   ?? '',
+            $project['tag'] ?? '',
+            $project['priceRange'] ?? '',
         ]));
-
         $keywords = array_filter(array_map('trim', explode(' ', strtolower($q))));
         $allFound = true;
         foreach ($keywords as $kw) {
-            if (strpos($haystack, $kw) === false) {
-                $allFound = false;
-                break;
-            }
+            if (strpos($haystack, $kw) === false) { $allFound = false; break; }
         }
         if (!$allFound) continue;
     }
 
-    // ── passed all filters – process and collect ──────────────────────────────
+    // Passed all filters
     $project = prefixImages($project, $base_url);
     $project = prefixAmenityImages($project, $base_url);
     $project['filters'] = generateFilters($project);
     $results[] = $project;
 }
 
-// ─── Pagination ───────────────────────────────────────────────────────────────
+// ── Pagination ─────────────────────────────────────────────────────
 $total      = count($results);
 $totalPages = (int)ceil($total / $limit);
 $offset     = ($page - 1) * $limit;
 $paginated  = array_slice($results, $offset, $limit);
 
-// ─── Response ─────────────────────────────────────────────────────────────────
+// ── Response ───────────────────────────────────────────────────────
 echo json_encode([
     "success"      => true,
     "message"      => "Search completed successfully.",
     "query"        => [
         "q"          => $q,
-        "community"  => $community,
-        "priceRange" => $priceRange,
+        "community"  => $communities,
+        "priceRange" => $priceRanges,
         "tag"        => $tag,
         "bedrooms"   => $bedrooms,
         "bathrooms"  => $bathrooms,
